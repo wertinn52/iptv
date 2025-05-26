@@ -351,18 +351,6 @@ https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://cdn.mos.cms.futurecdn.net/xvPiVbHBDvsz3HXWJzenxE-1200-80.jpg" group-title="Развлекательные", The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="perec-int" group-title="СВАТЫ", СВАТЫ
-http://woobl.ru/op/WVdKdmJuQnNZWGt5TURFd1FHZHRZV2xzTG1OdmJRPT0/1585.m3u8
-
-#EXTINF:0 group-title="СВАТЫ" tvg-id="4768" tvg-logo="http://epg.one/img/4768.png" tvg-rec="7",BCU Сваты HD
-http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/11047/index.m3u8
-
-#EXTINF:0 group-title="СВАТЫ" tvg-id="4696" tvg-logo="http://epg.one/img/4696.png" tvg-rec="7",StrahTV Сваты
-http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/11062/index.m3u8
-
-
-
-
 #EXTINF:-1 tvg-id="animetv" group-title="Развлекательные", Anime TV
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd128.iptv2022.com/p/1bCz2qk1xora8_WOEk2YWw,1748293208/streaming/anime_tv/324/1/index.m3u8
@@ -430,9 +418,6 @@ http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://telegra.ph/file/dc69bed0897d479ddcbde.png" group-title="Развлекательные", Мой Мир
 https://moymir.ru/hls/onair.m3u8
-#EXTINF:0 group-title="СВАТЫ" tvg-id="4692" tvg-logo="http://epg.one/img/4692.png" tvg-rec="7",CineMan Сваты
-http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/11014/index.m3u8
-
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://jitv.ru/wp-content/uploads/2019/09/vitrinatv.png" group-title="Развлекательные", Витрина ТВ
 https://v4.proofix.ru/vitrina-live/tracks-v1a1/mono.m3u8
 
@@ -2846,3 +2831,20 @@ http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_OMSK_PERETZ/variant.
 #EXTINF:-1 tvg-id="shayantv" catchup="append" tvg-logo="https://i.ibb.co/7WcMWTb/SHayan-TV-150x150.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Шаян ТВ
 #EXTVLCOPT:http-user-agent=SmartTV
 http://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
+
+#EXTINF:-1 tvg-id="perec-int" group-title="СВАТЫ", СВАТЫ
+http://woobl.ru/op/WVdKdmJuQnNZWGt5TURFd1FHZHRZV2xzTG1OdmJRPT0/1585.m3u8
+
+#EXTINF:0 group-title="ЛЮБИМОЕ" tvg-id="4768" tvg-logo="http://epg.one/img/4768.png" tvg-rec="7",BCU Сваты HD
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/11047/index.m3u8
+
+#EXTINF:0 group-title="ЛЮБИМОЕ" tvg-id="4696" tvg-logo="http://epg.one/img/4696.png" tvg-rec="7",StrahTV Сваты
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/11062/index.m3u8
+
+#EXTINF:0 group-title="ЛЮБИМОЕ" tvg-id="4692" tvg-logo="http://epg.one/img/4692.png" tvg-rec="7",CineMan Сваты
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/11014/index.m3u8
+
+#EXTINF:0 group-title="ЛЮБИМОЕ" tvg-id="5164" tvg-logo="http://epg.one/img/5164.png" tvg-rec="0",MM Сваты HD
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/13051/index.m3u8
+
+
