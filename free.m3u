@@ -353,6 +353,8 @@ https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="perec-int" group-title="СВАТЫ", СВАТЫ
 http://woobl.ru/op/WVdKdmJuQnNZWGt5TURFd1FHZHRZV2xzTG1OdmJRPT0/1585.m3u8
+#EXTINF:0 group-title="СВАТЫ",MM Сваты HD
+https://taptv.ru/channel/G6B09HYE43K4LIK3AK/814.m3u8
 
 #EXTINF:-1 tvg-id="animetv" group-title="Развлекательные", Anime TV
 #EXTVLCOPT:http-user-agent=SmartTV
