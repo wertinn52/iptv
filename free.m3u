@@ -372,7 +372,7 @@ https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://cdn.mos.cms.futurecdn.net/xvPiVbHBDvsz3HXWJzenxE-1200-80.jpg" group-title="Развлекательные", The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="perec-int" group-title="Развлекательные", СВАТЫ
+#EXTINF:-1 tvg-id="perec-int" group-title="СВАТЫ", СВАТЫ
 http://woobl.ru/op/WVdKdmJuQnNZWGt5TURFd1FHZHRZV2xzTG1OdmJRPT0/1585.m3u8
 
 #EXTINF:-1 tvg-id="animetv" group-title="Развлекательные", Anime TV
@@ -442,6 +442,8 @@ http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://telegra.ph/file/dc69bed0897d479ddcbde.png" group-title="Развлекательные", Мой Мир
 https://moymir.ru/hls/onair.m3u8
+#EXTINF:0 group-title="СВАТЫ" tvg-id="4692" tvg-logo="http://epg.one/img/4692.png" tvg-rec="7",CineMan Сваты
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/11014/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://jitv.ru/wp-content/uploads/2019/09/vitrinatv.png" group-title="Развлекательные", Витрина ТВ
 https://v4.proofix.ru/vitrina-live/tracks-v1a1/mono.m3u8
