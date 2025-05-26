@@ -375,8 +375,8 @@ https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://cdn.mos.cms.futurecdn.net/xvPiVbHBDvsz3HXWJzenxE-1200-80.jpg" group-title="Развлекательные", The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="perec-int" group-title="Развлекательные", Перец
-http://109.248.236.51/perec/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="perec-int" group-title="Развлекательные", СВАТЫ
+http://woobl.ru/op/WVdKdmJuQnNZWGt5TURFd1FHZHRZV2xzTG1OdmJRPT0/1585.m3u8
 
 #EXTINF:-1 tvg-id="animetv" group-title="Развлекательные", Anime TV
 #EXTVLCOPT:http-user-agent=SmartTV
