@@ -1486,9 +1486,6 @@ http://stream-msk-11.ott.tricolor.tv/dtv/id519_MSKSG-PVR-1--Mama/03/plst.m3u8?dr
 #EXTINF:-1 tvg-id="smaylik-tv" group-title="Детские", Смайлик ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="kidstv" group-title="Детские", Kids TV HD
-http://origin5.mediacdn.ru/live/kidstv/index.m3u8
-
 #EXTINF:0 group-title="Кино" tvg-id="323" tvg-logo="http://epg.one/img/323.png" tvg-rec="7",2x2
 http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/702/index.m3u8
 
@@ -1519,8 +1516,8 @@ http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Детские",О!
 http://109.248.236.51/o/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 group-title="Детские" tvg-id="66" tvg-logo="http://epg.one/img/66.png" tvg-rec="7",Уникум
-http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/730/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="66" tvg-logo="http://epg.one/img/66.png" tvg-rec="3",Уникум HD orig
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/9077/index.m3u8
 
 #EXTINF:-1 group-title="Детские",Детский Мир
 http://178.124.152.238:8088/detmir
@@ -1546,6 +1543,10 @@ http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/541/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="917" tvg-logo="http://epg.one/img/917.png" tvg-rec="7",Nick Jr
 http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/114/index.m3u8
 
+#EXTINF:0 group-title="Детские" tvg-id="2994" tvg-logo="http://epg.one/img/2994.png" tvg-rec="7",NickToons HD
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/849/index.m3u8
+
+
 #EXTINF:-1 group-title="Детские", TiJi
 http://109.248.236.51/tiji/tracks-v1a1/mono.m3u8
 
@@ -1561,7 +1562,21 @@ http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
 #EXTINF:-1 tvg-id="kinomult" group-title="Детские",Киномульт
 http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/20009/index.m3u8
 
-TMwNjgyMiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.aWl1aCCqGGstF9eTuckXNw6fSaqttrCjH3kEXmAaRn0&offset=3
+#EXTINF:0 group-title="Детские" tvg-id="2437" tvg-logo="http://epg.one/img/2437.png" tvg-rec="3",Рыжий
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/2052/index.m3u8
+
+#EXTINF:0 group-title="Детские" tvg-id="7596" tvg-logo="http://epg.one/img/7596.png" tvg-rec="0",ТипТоп HD
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/14007/index.m3u8
+
+#EXTINF:0 group-title="Детские" tvg-id="7597" tvg-logo="http://epg.one/img/7597.png" tvg-rec="0",Чижик HD
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/14034/index.m3u8
+
+#EXTINF:0 group-title="Детские" tvg-id="7593" tvg-logo="http://epg.one/img/7593.png" tvg-rec="0",VF Disney Cartoon
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/15027/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="viva-rus" group-title="Музыкальные",VIVA TV Russia
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/180805.m3u8
