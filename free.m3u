@@ -2,6 +2,7 @@
 #EXTM3U x-tvg-url="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz"
 #EXTINF:-1,Первый канал 
 http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/15481/index.m3u8
+
 #EXTINF:-1 group-title="Эфирные",Россия 1
 http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/15302/index.m3u8
 
