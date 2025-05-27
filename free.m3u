@@ -61,9 +61,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 tvg-id="tvcentr" group-title="Эфирные",ТВ Центр HD
 https://live-mirror-01.ott.tricolor.tv/live/live/TV_Center_HD/hls_enc/TV_Center_HD.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0ODgzNDAzOCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4MjI5MjM4LCJzZXNzaW9uX2lkIjoiMTA3OGE4OWRiOTJlODE4MmIyOTY1NjExZTIzZWUwZGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.d-WwVXBEyZRxj7GtFXpjCnBDFrXV0xaqNsTPfV0RvmM
 
-#EXTINF:-1 tvg-id="5kanal-ru" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="20 КАНАЛОВ", Пятый канал
-#EXTVLCOPT:http-user-agent=SmartTV
-http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/746/index.m3u8
+#EXTINF:0 group-title="20 КАНАЛОВ" tvg-id="2035" tvg-logo="http://epg.one/img/2035.png" tvg-rec="0",5 Канал +2 (Уфа)
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/15316/index.m3u8
 
 #EXTINF:0 group-title="20 КАНАЛОВ" tvg-id="3010" tvg-logo="http://epg.one/img/3010.png" tvg-rec="0",Домашний +2
 http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/6016/index.m3u8
@@ -1486,7 +1485,7 @@ http://stream-msk-11.ott.tricolor.tv/dtv/id519_MSKSG-PVR-1--Mama/03/plst.m3u8?dr
 #EXTINF:-1 tvg-id="smaylik-tv" group-title="Детские", Смайлик ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
 
-#EXTINF:0 group-title="Кино" tvg-id="323" tvg-logo="http://epg.one/img/323.png" tvg-rec="7",2x2
+#EXTINF:0 group-title="Детские" tvg-id="323" tvg-logo="http://epg.one/img/323.png" tvg-rec="7",2x2
 http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/702/index.m3u8
 
 #EXTINF:-1 group-title="Детские", 2x2 HD
