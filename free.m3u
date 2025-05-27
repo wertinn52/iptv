@@ -6,8 +6,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/15481/index.m3u8
 #EXTINF:-1 group-title="20 КАНАЛОВ",Россия 1
 http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/15302/index.m3u8
 
-#EXTINF:-1 tvg-id="ntv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="20 КАНАЛОВ",НТВ
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTINF:0 group-title="20 КАНАЛОВ" tvg-id="162" tvg-logo="http://epg.one/img/162.png" tvg-rec="3",НТВ +2
 http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/713/index.m3u8
 
 #EXTINF:-1 tvg-id="ntv" group-title="Эфирные",НТВ HD
@@ -39,8 +38,7 @@ https://stream-msk-07.ott.tricolor.tv/dtv/id896_MSKSG-PVR-1--BelRos/04/plst.m3u8
 #EXTINF:-1 tvg-id="tv-brics" group-title="Эфирные", TV BRICS
 http://rusbrics.mediacdn.ru/cdn/brics/russian/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="rentv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="20 КАНАЛОВ",РЕН ТВ
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTINF:0 group-title="20 КАНАЛОВ" tvg-id="18" tvg-logo="http://epg.one/img/18.png" tvg-rec="3",РЕН ТВ +2
 http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/747/index.m3u8
 
 #EXTINF:-1 tvg-id="rentv" group-title="Эфирные",Рен ТВ HD
@@ -67,9 +65,9 @@ https://live-mirror-01.ott.tricolor.tv/live/live/TV_Center_HD/hls_enc/TV_Center_
 #EXTVLCOPT:http-user-agent=SmartTV
 http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/746/index.m3u8
 
-#EXTINF:-1 tvg-id="domashny" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="20 КАНАЛОВ",Домашний
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTINF:0 group-title="20 КАНАЛОВ" tvg-id="3010" tvg-logo="http://epg.one/img/3010.png" tvg-rec="0",Домашний +2
 http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/6016/index.m3u8
+
 
 #EXTINF:-1 tvg-id="domashny" group-title="Эфирные",Домашний HD
 http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=domashny.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0ODgzNDAzOCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4MjI5MjM4LCJzZXNzaW9uX2lkIjoiMTA3OGE4OWRiOTJlODE4MmIyOTY1NjExZTIzZWUwZGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.d-WwVXBEyZRxj7GtFXpjCnBDFrXV0xaqNsTPfV0RvmM
@@ -243,22 +241,23 @@ https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 #EXTINF:-1 tvg-id="xabar24" group-title="Новости", Хабар 24
 https://stream-msk-17.ott.tricolor.tv/dtv/id947_MSKSG-PVR-1--KZ24_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0ODgzNDAzOCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4MjI5MjM4LCJzZXNzaW9uX2lkIjoiMTA3OGE4OWRiOTJlODE4MmIyOTY1NjExZTIzZWUwZGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.d-WwVXBEyZRxj7GtFXpjCnBDFrXV0xaqNsTPfV0RvmM
 
-#EXTINF:-1 tvg-logo="https://i116.fastpic.org/big/2021/1107/d9/129dc2e5164bfcd303ad98fbde6e78d9.png" group-title="20 КАНАЛОВ",Пятница!
+#EXTINF:0 group-title="20 КАНАЛОВ" tvg-id="1003" tvg-logo="http://epg.one/img/1003.png" tvg-rec="0",Пятница! +2
 http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/6018/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Среда (Дагестан)" tvg-logo="http://i120.fastpic.org/big/2022/1129/a3/e14bf519c90b3f8cb5fc4aea77209aa3.png" group-title="Развлекательные",СРЕДА
 http://iptv46.mcx-ix.ru:8077/sreda/index.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="20 КАНАЛОВ",СТС
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTINF:0 group-title="20 КАНАЛОВ" tvg-id="3007" tvg-logo="http://epg.one/img/3007.png" tvg-rec="0",СТС +2
 http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/6015/index.m3u8
+
 
 #EXTINF:-1 group-title="Развлекательные",СТС HD
 http://live-stream-01.ott.tricolor.tv/live/live/STS_0_hd/hls_enc/STS_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0ODgzNDAzOCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4MjI5MjM4LCJzZXNzaW9uX2lkIjoiMTA3OGE4OWRiOTJlODE4MmIyOTY1NjExZTIzZWUwZGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.d-WwVXBEyZRxj7GtFXpjCnBDFrXV0xaqNsTPfV0RvmM
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="20 КАНАЛОВ",ТНТ
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTINF:0 group-title="20 КАНАЛОВ" tvg-id="3022" tvg-logo="http://epg.one/img/3022.png" tvg-rec="3",ТНТ (+2)
 http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/717/index.m3u8
+
 
 #EXTINF:-1 group-title="Развлекательные",ТНТ HD
 http://live-stream-20.ott.tricolor.tv/live/live/tnt_hd/hls_enc/tnt_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0ODgzNDAzOCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4MjI5MjM4LCJzZXNzaW9uX2lkIjoiMTA3OGE4OWRiOTJlODE4MmIyOTY1NjExZTIzZWUwZGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.d-WwVXBEyZRxj7GtFXpjCnBDFrXV0xaqNsTPfV0RvmM
