@@ -1,14 +1,14 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz"
 #EXTM3U x-tvg-url="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz"
-#EXTINF:-1,Первый канал 
+#EXTINF:-1 group-title="20 КАНАЛОВ",Первый канал 
 http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/15481/index.m3u8
 
-#EXTINF:-1 group-title="Эфирные",Россия 1
+#EXTINF:-1 group-title="20 КАНАЛОВ",Россия 1
 http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/15302/index.m3u8
 
-#EXTINF:-1 tvg-id="ntv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",НТВ
+#EXTINF:-1 tvg-id="ntv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="20 КАНАЛОВ",НТВ
 #EXTVLCOPT:http-user-agent=SmartTV
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/713/index.m3u8
 
 #EXTINF:-1 tvg-id="ntv" group-title="Эфирные",НТВ HD
 https://live-stream-22.ott.tricolor.tv/live/live/NTV_0_hd/hls_enc/NTV_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0ODgzNDAzOCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4MjI5MjM4LCJzZXNzaW9uX2lkIjoiMTA3OGE4OWRiOTJlODE4MmIyOTY1NjExZTIzZWUwZGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.d-WwVXBEyZRxj7GtFXpjCnBDFrXV0xaqNsTPfV0RvmM
@@ -39,9 +39,9 @@ https://stream-msk-07.ott.tricolor.tv/dtv/id896_MSKSG-PVR-1--BelRos/04/plst.m3u8
 #EXTINF:-1 tvg-id="tv-brics" group-title="Эфирные", TV BRICS
 http://rusbrics.mediacdn.ru/cdn/brics/russian/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="rentv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",РЕН ТВ
+#EXTINF:-1 tvg-id="rentv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="20 КАНАЛОВ",РЕН ТВ
 #EXTVLCOPT:http-user-agent=SmartTV
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/747/index.m3u8
 
 #EXTINF:-1 tvg-id="rentv" group-title="Эфирные",Рен ТВ HD
 http://live-stream-09.ott.tricolor.tv/live/live/REN-TV_0_hd/hls_enc/REN-TV_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0ODgzNDAzOCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4MjI5MjM4LCJzZXNzaW9uX2lkIjoiMTA3OGE4OWRiOTJlODE4MmIyOTY1NjExZTIzZWUwZGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.d-WwVXBEyZRxj7GtFXpjCnBDFrXV0xaqNsTPfV0RvmM
@@ -63,16 +63,13 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 tvg-id="tvcentr" group-title="Эфирные",ТВ Центр HD
 https://live-mirror-01.ott.tricolor.tv/live/live/TV_Center_HD/hls_enc/TV_Center_HD.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0ODgzNDAzOCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4MjI5MjM4LCJzZXNzaW9uX2lkIjoiMTA3OGE4OWRiOTJlODE4MmIyOTY1NjExZTIzZWUwZGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.d-WwVXBEyZRxj7GtFXpjCnBDFrXV0xaqNsTPfV0RvmM
 
-#EXTINF:-1 tvg-id="5kanal-ru" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные", Пятый канал
+#EXTINF:-1 tvg-id="5kanal-ru" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="20 КАНАЛОВ", Пятый канал
 #EXTVLCOPT:http-user-agent=SmartTV
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/746/index.m3u8
 
-#EXTINF:-1 tvg-id="5kanal-ru" group-title="Эфирные", 5 канал Россия
-https://live-stream-09.ott.tricolor.tv/live/live/5_kanal/hls_enc/5_kanal-avc1_2000000=10002_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0ODgzNDAzOCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4MjI5MjM4LCJzZXNzaW9uX2lkIjoiMTA3OGE4OWRiOTJlODE4MmIyOTY1NjExZTIzZWUwZGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.d-WwVXBEyZRxj7GtFXpjCnBDFrXV0xaqNsTPfV0RvmM
-
-#EXTINF:-1 tvg-id="domashny" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Домашний
+#EXTINF:-1 tvg-id="domashny" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="20 КАНАЛОВ",Домашний
 #EXTVLCOPT:http-user-agent=SmartTV
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/6016/index.m3u8
 
 #EXTINF:-1 tvg-id="domashny" group-title="Эфирные",Домашний HD
 http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=domashny.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0ODgzNDAzOCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4MjI5MjM4LCJzZXNzaW9uX2lkIjoiMTA3OGE4OWRiOTJlODE4MmIyOTY1NjExZTIzZWUwZGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.d-WwVXBEyZRxj7GtFXpjCnBDFrXV0xaqNsTPfV0RvmM
@@ -246,22 +243,22 @@ https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 #EXTINF:-1 tvg-id="xabar24" group-title="Новости", Хабар 24
 https://stream-msk-17.ott.tricolor.tv/dtv/id947_MSKSG-PVR-1--KZ24_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0ODgzNDAzOCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4MjI5MjM4LCJzZXNzaW9uX2lkIjoiMTA3OGE4OWRiOTJlODE4MmIyOTY1NjExZTIzZWUwZGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.d-WwVXBEyZRxj7GtFXpjCnBDFrXV0xaqNsTPfV0RvmM
 
-#EXTINF:-1 tvg-logo="https://i116.fastpic.org/big/2021/1107/d9/129dc2e5164bfcd303ad98fbde6e78d9.png" group-title="Развлекательные",Пятница!
-https://live-stream-10.ott.tricolor.tv/live/live/Friday_0_hd/hls_enc/Friday_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0ODgzNDAzOCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4MjI5MjM4LCJzZXNzaW9uX2lkIjoiMTA3OGE4OWRiOTJlODE4MmIyOTY1NjExZTIzZWUwZGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.d-WwVXBEyZRxj7GtFXpjCnBDFrXV0xaqNsTPfV0RvmM
+#EXTINF:-1 tvg-logo="https://i116.fastpic.org/big/2021/1107/d9/129dc2e5164bfcd303ad98fbde6e78d9.png" group-title="20 КАНАЛОВ",Пятница!
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/6018/index.m3u8
 
 #EXTINF:-1 tvg-id="Среда (Дагестан)" tvg-logo="http://i120.fastpic.org/big/2022/1129/a3/e14bf519c90b3f8cb5fc4aea77209aa3.png" group-title="Развлекательные",СРЕДА
 http://iptv46.mcx-ix.ru:8077/sreda/index.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные",СТС
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="20 КАНАЛОВ",СТС
 #EXTVLCOPT:http-user-agent=SmartTV
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/6015/index.m3u8
 
 #EXTINF:-1 group-title="Развлекательные",СТС HD
 http://live-stream-01.ott.tricolor.tv/live/live/STS_0_hd/hls_enc/STS_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0ODgzNDAzOCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4MjI5MjM4LCJzZXNzaW9uX2lkIjoiMTA3OGE4OWRiOTJlODE4MmIyOTY1NjExZTIzZWUwZGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.d-WwVXBEyZRxj7GtFXpjCnBDFrXV0xaqNsTPfV0RvmM
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные",ТНТ
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="20 КАНАЛОВ",ТНТ
 #EXTVLCOPT:http-user-agent=SmartTV
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/717/index.m3u8
 
 #EXTINF:-1 group-title="Развлекательные",ТНТ HD
 http://live-stream-20.ott.tricolor.tv/live/live/tnt_hd/hls_enc/tnt_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0ODgzNDAzOCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4MjI5MjM4LCJzZXNzaW9uX2lkIjoiMTA3OGE4OWRiOTJlODE4MmIyOTY1NjExZTIzZWUwZGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.d-WwVXBEyZRxj7GtFXpjCnBDFrXV0xaqNsTPfV0RvmM
@@ -1477,13 +1474,10 @@ https://live-mirror-19.ott.tricolor.tv/dtv/id1018_MSKSG-PVR-1--Kinozal30_HD/02/p
 
 #EXTINF:-1 tvg-logo="http://only4.tv/ch/822.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские", Карусель
 #EXTVLCOPT:http-user-agent=SmartTV
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/156/index.m3u8
 
 #EXTINF:-1 tvg-id="karusel" tvg-logo="http://only4.tv/ch/822.png" group-title="Детские", Карусель HD
 https://live-stream-12.ott.tricolor.tv/live/live/karusel/hls_enc/karusel-avc1_2000000=10002_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0ODgzNDAzOCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4MjI5MjM4LCJzZXNzaW9uX2lkIjoiMTA3OGE4OWRiOTJlODE4MmIyOTY1NjExZTIzZWUwZGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.d-WwVXBEyZRxj7GtFXpjCnBDFrXV0xaqNsTPfV0RvmM
-
-#EXTINF:-1 tvg-id="karusel-int" tvg-logo="http://only4.tv/ch/822.png" group-title="Детские", Карусель Международный
-https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
 
 #EXTINF:-1 group-title="Детские", Солнце
 http://stream-msk-08.ott.tricolor.tv/dtv/id253_MSKSG-PVR-1--Disney/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0ODgzNDAzOCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4MjI5MjM4LCJzZXNzaW9uX2lkIjoiMTA3OGE4OWRiOTJlODE4MmIyOTY1NjExZTIzZWUwZGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.d-WwVXBEyZRxj7GtFXpjCnBDFrXV0xaqNsTPfV0RvmM
@@ -1499,7 +1493,7 @@ http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 
 #EXTINF:-1 group-title="Детские", 2x2
 #EXTVLCOPT:http-user-agent=SmartTV
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/702/index.m3u8
 
 #EXTINF:-1 group-title="Детские", 2x2 HD
 https://stream-msk-20.ott.tricolor.tv/dtv/id975_MSKSG-PVR-1--2x2/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0ODgzNDAzOCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4MjI5MjM4LCJzZXNzaW9uX2lkIjoiMTA3OGE4OWRiOTJlODE4MmIyOTY1NjExZTIzZWUwZGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.d-WwVXBEyZRxj7GtFXpjCnBDFrXV0xaqNsTPfV0RvmM
@@ -1551,19 +1545,19 @@ http://hls.peers.tv/streaming/cartoon_season/16/vh1w/playlist.m3u8?token=eyJhbGc
 http://api.peers.tv/timeshift/gulli_girl/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDgzMzE5ODAsImlhdCI6MTc0ODI0NTU4MCwiY2lkIjo2LCJ1aWQiOjkxOTMwNjgyMiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.aWl1aCCqGGstF9eTuckXNw6fSaqttrCjH3kEXmAaRn0&offset=3
 
 #EXTINF:-1 tvg-id="cartoon-network" group-title="Детские",Cartoon Network
-http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/143/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoon-network" group-title="Детские",Cartoon Network HD
-http://s7.merlive.am/CartoonNetwork/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/143/index.m3u8
 
 #EXTINF:-1 tvg-id="boomerang" group-title="Детские",Cartoonito
-http://135.181.115.81:8000/play/a04e/index.m3u8?token=livetv
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/723/index.m3u8
 
 #EXTINF:-1 tvg-id="nickelodeon-ru" group-title="Детские", Nickelodeon
-http://s7.merlive.am/Nickelodeon/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/541/index.m3u8
 
 #EXTINF:-1 tvg-id="nickelodeon-ru" group-title="Детские", Nickelodeon HD
-https://tv.movielab.pro/174/video.m3u8?token=9af64c305892f676f81265e4c67d3b18815a34d2-3c3ec39e5b829e4b1eaee32cc3d91c10-1748328719-1748242319
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/541/index.m3u8
 
 #EXTINF:-1 group-title="Детские", TiJi
 http://109.248.236.51/tiji/tracks-v1a1/mono.m3u8
@@ -1578,7 +1572,7 @@ http://api.peers.tv/timeshift/ginger_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1N
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
 
 #EXTINF:-1 tvg-id="kinomult" group-title="Детские",Киномульт
-http://109.200.130.123:7537/play/a024
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/20009/index.m3u8
 
 #EXTINF:-1 tvg-id="ryzhy" group-title="Детские", Рыжий
 #EXTVLCOPT:http-user-agent=SmartTV
