@@ -1,25 +1,17 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz"
-
 #EXTM3U x-tvg-url="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz"
-
 #EXTINF:-1 group-title="20 КАНАЛОВ",Первый канал 
 http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/15481/index.m3u8
-
 #EXTINF:-1 group-title="20 КАНАЛОВ",Россия 1
 http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/15302/index.m3u8
-
 #EXTINF:0 group-title="20 КАНАЛОВ" tvg-id="162" tvg-logo="http://epg.one/img/162.png" tvg-rec="3",НТВ +2
 http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/713/index.m3u8
-
 #EXTINF:0 group-title="20 КАНАЛОВ" tvg-id="2035" tvg-logo="http://epg.one/img/2035.png" tvg-rec="0",5 Канал +2 (Уфа)
 http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/15316/index.m3u8
-
 #EXTINF:0 group-title="20 КАНАЛОВ" tvg-id="18" tvg-logo="http://epg.one/img/18.png" tvg-rec="3",РЕН ТВ +2
 http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/747/index.m3u8
-
 #EXTINF:0 group-title="20 КАНАЛОВ" tvg-id="3007" tvg-logo="http://epg.one/img/3007.png" tvg-rec="0",СТС +2
 http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/6015/index.m3u8
-
 #EXTINF:0 group-title="20 КАНАЛОВ" tvg-id="3010" tvg-logo="http://epg.one/img/3010.png" tvg-rec="0",Домашний +2
 http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/6016/index.m3u8
 
