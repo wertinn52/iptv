@@ -1563,4 +1563,25 @@ http://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/фи-ьм-49148066.jpg" tvg-id="no_epg_music" group-title="Музыкальные",Музыка Кино International
 http://kino-1.catcast.tv/content/37739/index.m3u8
 
+#EXTINF:0 group-title="ЛЮБИМОЕ" tvg-id="4768" tvg-logo="http://epg.one/img/4768.png" tvg-rec="7",BCU Сваты HD
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/11047/index.m3u8
+
+#EXTINF:0 group-title="ЛЮБИМОЕ" tvg-id="4696" tvg-logo="http://epg.one/img/4696.png" tvg-rec="7",StrahTV Сваты
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/11062/index.m3u8
+
+#EXTINF:0 group-title="ЛЮБИМОЕ" tvg-id="4692" tvg-logo="http://epg.one/img/4692.png" tvg-rec="7",CineMan Сваты
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/11014/index.m3u8
+
+#EXTINF:0 group-title="ЛЮБИМОЕ" tvg-id="5164" tvg-logo="http://epg.one/img/5164.png" tvg-rec="0",MM Сваты HD
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/13051/index.m3u8
+
+#EXTINF:0 group-title="ЛЮБИМОЕ" tvg-id="5193" tvg-logo="http://epg.one/img/5193.png" tvg-rec="0",VF Сваты
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/13080/index.m3u8
+
+#EXTINF:0 group-title="ЛЮБИМОЕ" tvg-id="5440" tvg-logo="http://epg.one/img/5440.png" tvg-rec="0",Dosug TV Сваты
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/14228/index.m3u8
+
+#EXTINF:0 group-title="ЛЮБИМОЕ" tvg-id="5633" tvg-logo="http://epg.one/img/5633.png" tvg-rec="0",Liberty Сваты FHD
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/15164/index.m3u8
+
 
