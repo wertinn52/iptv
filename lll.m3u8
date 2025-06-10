@@ -4,10 +4,10 @@
 #EXTINF:-1 tvg-id="1kanalplus2" tvg-name="1 Канал Плюс" tvg-logo="" group-title="20 КАНАЛОВ",1 Канал Плюс
 https://mhd156.iptv2022.com/p/t-VWrHaGH8UtY35VePBOkw,1749671071/streaming/1kanalplus2-drm/324/5/tracks-v4a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="rossia1plus2" tvg-name="Россия 1 Плюс" tvg-logo="" group-title="IPTV",Россия 1
+#EXTINF:-1 tvg-id="rossia1plus2" tvg-name="Россия 1 Плюс" tvg-logo="" group-title="20 КАНАЛОВ",Россия 1
 https://mhd116.iptv2022.com/p/vKG4MDoxtrc8mqVQ9NQ-bA,1749669864/streaming/rossia1plus2-drm/324/5/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ntvplus2" tvg-name="НТВ Плюс" tvg-logo="" group-title="IPTV",НТВ 
+#EXTINF:-1 tvg-id="ntvplus2" tvg-name="НТВ Плюс" tvg-logo="" group-title="20 КАНАЛОВ",НТВ 
 https://mhd128.iptv2022.com/p/J9x3hgAEMyZHqlnE-_AXAw,1749670746/streaming/ntvplus2-drm/324/5/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="20 КАНАЛОВ",Карусель +2
@@ -521,7 +521,7 @@ http://stream-msk-11.ott.tricolor.tv/dtv/id519_MSKSG-PVR-1--Mama/03/plst.m3u8?dr
 #EXTINF:-1 tvg-id="smaylik-tv" group-title="Детские", Смайлик ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
 
-#EXTINF:0 group-title="Кино" tvg-id="323" tvg-logo="http://epg.one/img/323.png" tvg-rec="7",2x2
+#EXTINF:0 group-title="Детские" tvg-id="323" tvg-logo="http://epg.one/img/323.png" tvg-rec="7",2x2
 http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/702/index.m3u8
 
 #EXTINF:-1 group-title="Детские", 2x2 HD
@@ -551,7 +551,7 @@ http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Детские",О!
 http://178.217.72.66:8080/O/index.m3u8
 
-#EXTINF:-1, Уникум
+#EXTINF:-1 group-title="Детские",Уникум
 http://31.148.48.15/Detskiy/index.m3u8
 
 #EXTINF:-1 group-title="Детские",Детский Мир
