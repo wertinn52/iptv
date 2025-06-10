@@ -1,13 +1,13 @@
  #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz"
 #EXTM3U x-tvg-url="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz"
 
-#EXTINF:-1 tvg-id="1kanalplus2" tvg-name="Первый Канал" tvg-logo="" group-title="20 КАНАЛОВ",Первый Канал
+#EXTINF:-1 tvg-id="1kanalplus2" tvg-name="1 Канал Плюс" tvg-logo="" group-title="IPTV",Первый Канал 
 https://mhd116.iptv2022.com/p/d_uK7jdZ5qjDH_dVk8U4Gg,1749669235/streaming/1kanalplus2-drm/324/5/tracks-v4a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="rossia1plus2" tvg-name="Россия 1" tvg-logo="" group-title="20 КАНАЛОВ",Россия 1 
+#EXTINF:-1 tvg-id="rossia1plus2" tvg-name="Россия 1 Плюс" tvg-logo="" group-title="IPTV",Россия 1
 https://mhd116.iptv2022.com/p/vKG4MDoxtrc8mqVQ9NQ-bA,1749669864/streaming/rossia1plus2-drm/324/5/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ntvplus2" tvg-name="НТВ" tvg-logo="" group-title="IPTV",НТВ 
+#EXTINF:-1 tvg-id="ntvplus2" tvg-name="НТВ Плюс" tvg-logo="" group-title="IPTV",НТВ 
 https://mhd128.iptv2022.com/p/J9x3hgAEMyZHqlnE-_AXAw,1749670746/streaming/ntvplus2-drm/324/5/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="20 КАНАЛОВ",Карусель +2
