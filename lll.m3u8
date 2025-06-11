@@ -510,7 +510,7 @@ http://stream-msk-08.ott.tricolor.tv/dtv/id253_MSKSG-PVR-1--Disney/03/plst.m3u8?
 #EXTINF:-1 tvg-id="mama" group-title="Детские", Мама
 http://stream-msk-11.ott.tricolor.tv/dtv/id519_MSKSG-PVR-1--Mama/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MDA1NTMwNSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzQ5NDUwNTA1LCJzZXNzaW9uX2lkIjoiZDFlMTUwNzUzMWMwYWY1OGQzNzAwYmVhZTMwZGJmZjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ZWAEF-fXv0YunZk6JkToUviBig_V7uMlP0KoioZIQfA
 
-#EXTINF:-1 tvg-id="2x2.ru" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="Детские",2x2
+#EXTINF:-1 tvg-id="2x2.ru" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="Детские", 2x2
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 
 #EXTINF:-1 group-title="Детские", 2x2 HD
@@ -534,7 +534,7 @@ http://stv.mediacdn.ru/live/cdn/mult/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детские",Мульт HD
 http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
 
-#EXTINF:-1 group-title="Детские",О!
+#EXTINF:-1 group-title="Детские", О!
 http://178.217.72.66:8080/O/index.m3u8
 
 #EXTINF:-1 tvg-id="10082 group-title="Детские", Уникум
@@ -546,14 +546,14 @@ https://mhd128.iptv2022.com/p/d2BvoCEerfKPJPaO5copGg,1749675611/streaming/detmir
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские",Gulli Girl
 http://api.peers.tv/timeshift/gulli_girl/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk2ODAyMzUsImlhdCI6MTc0OTU5MzgzNSwiY2lkIjo2LCJ1aWQiOjkyMjk3OTgyMCwicmVnIjpmYWxzZSwiaXAiOjMyNTA0MTQ3OTYsImFkdWx0IjpmYWxzZX0.xYD1NErfI1GzxRPA7P8SiAHtDXc8YHVB4qbw8VrYV9A&offset=3
 
-#EXTINF:-1 tvg-id="cartoon-network" group-title="Детские",Cartoon Network
-http://217.113.25.29:8001/play/a02i/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="601" tvg-logo="http://epg.one/img/601.png" tvg-rec="7",Cartoon Network
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/143/index.m3u8
 
-#EXTINF:-1 tvg-id="boomerang" group-title="Детские",Cartoonito
-http://135.181.115.81:8000/play/a04e/index.m3u8?token=livetv
+#EXTINF:0 group-title="Детские" tvg-id="929" tvg-logo="http://epg.one/img/929.png" tvg-rec="7",Cartoonito
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/723/index.m3u8
 
-#EXTINF:-1 tvg-id="nickelodeon-ru" group-title="Детские", Nickelodeon
-http://195.245.99.242/Nickelodeon/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Nickelodeon HD
+https://livetv.mylifeisgood.net.ru/channels/nickelodeon-hd.m3u8
 
 #EXTINF:0 group-title="Детские" tvg-id="917" tvg-logo="http://epg.one/img/917.png" tvg-rec="7",Nick Jr
 http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/114/index.m3u8
