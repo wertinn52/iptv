@@ -1,6 +1,10 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz"
 #EXTM3U x-tvg-url="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz"
 
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 11.06.2025г 00:55
+#EXTVLCOPT:http-user-agent=SmartTV
+https://river-3-346.rutube.ru/hls-vod/rsZasdwTPHpTmy3uqJOpJQ/1750244394/2126/rutube-ds-origin-s306-1/0542f4a0e16b4e71a2e9bd62b20e1891.mp4/segment-54-v1-a1.ts
+
 #EXTINF:-1 tvg-id="1kanalplus2" tvg-name="1 Канал Плюс" tvg-logo="" group-title="20 КАНАЛОВ",1 Канал Плюс
 https://mhd156.iptv2022.com/p/t-VWrHaGH8UtY35VePBOkw,1749671071/streaming/1kanalplus2-drm/324/5/tracks-v4a1/mono.m3u8
 
