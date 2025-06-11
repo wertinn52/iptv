@@ -50,7 +50,6 @@ http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOi
 http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk2ODAyMzUsImlhdCI6MTc0OTU5MzgzNSwiY2lkIjo2LCJ1aWQiOjkyMjk3OTgyMCwicmVnIjpmYWxzZSwiaXAiOjMyNTA0MTQ3OTYsImFkdWx0IjpmYWxzZX0.xYD1NErfI1GzxRPA7P8SiAHtDXc8YHVB4qbw8VrYV9A&offset=3
 
 #EXTINF:-1 tvg-id="feniks-plus-kino" group-title="Кино и сериалы",Феникс+Кино HD
-#EXTVLCOPT:http-user-agent=SmartTV
 https://mhd128.iptv2022.com/p/rNsim8C17K5mnqHMHDTY8g,1749675610/streaming/fenixkino/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="kineko" group-title="Кино и сериалы",Кинеко HD
@@ -61,9 +60,6 @@ https://stream-msk-17.ott.tricolor.tv/dtv/id991_MSKSG-PVR-1--Sapphire_HD/04/plst
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="tv1000-russkoe-kino" group-title="Кино и сериалы",viju TV1000 Русское
 http://api.peers.tv/timeshift/tv_1000_rus_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk2ODAyMzUsImlhdCI6MTc0OTU5MzgzNSwiY2lkIjo2LCJ1aWQiOjkyMjk3OTgyMCwicmVnIjpmYWxzZSwiaXAiOjMyNTA0MTQ3OTYsImFkdWx0IjpmYWxzZX0.xYD1NErfI1GzxRPA7P8SiAHtDXc8YHVB4qbw8VrYV9A&offset=3
-
-#EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Кино и сериалы",viju TV1000 Русское HD
-http://217.113.25.29:8001/play/a01k/index.m3u8
 
 #EXTINF:-1 tvg-id="tv1000" group-title="Кино и сериалы", viju TV1000
 http://178.217.72.66:8080/TV_1000/index.m3u8
