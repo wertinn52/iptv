@@ -1,40 +1,40 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz"
 #EXTM3U x-tvg-url="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz"
 
-#EXTINF:-1,Обновление было 11.06.2025
+#EXTINF:-1 group-title="ОБНОВА",Обновление было 11.06.2025
 https://files.voicy.network/public/Content/SoundGIFs/Video/d012d8a6-f095-4bd2-8336-fd77f859754f.mp4
 
-#EXTINF:-1 catchup="default" group-title="20 КАНАЛОВ", Первый канал (+2)
+#EXTINF:-1 catchup="default" group-title="ЦТВ", Первый канал (+2)
 https://mhd128.iptv2022.com/p/8az9fR-OGvddGcLQo4Y88A,1749675604/streaming/1kanalplus2/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 catchup="default" group-title="20 КАНАЛОВ", Россия 1 (+2)
+#EXTINF:-1 catchup="default" group-title="ЦТВ", Россия 1 (+2)
 https://mhd128.iptv2022.com/p/QS3bduzl1kIFdCfQziScXQ,1749675604/streaming/rossia1plus2/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 catchup="default" group-title="20 КАНАЛОВ", НТВ (+2)
+#EXTINF:-1 catchup="default" group-title="ЦТВ", НТВ (+2)
 https://mhd128.iptv2022.com/p/mHwrz7ffUW1BBENTlctnpQ,1749675605/streaming/ntvplus2/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 catchup="default" group-title="20 КАНАЛОВ", Карусель (+2)
-https://mhd128.iptv2022.com/p/XlcNTR7O2McgdsS9rHAoiw,1749675607/streaming/karuselplus2/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="default" group-title="20 КАНАЛОВ", Пятый канал (+2)
+#EXTINF:-1 catchup="default" group-title="ЦТВ", Пятый канал (+2)
 https://mhd128.iptv2022.com/p/Bss-cIK3tWSBejpe8IhfTw,1749675605/streaming/5kanalplus2/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 catchup="default" group-title="20 КАНАЛОВ", Рен ТВ +2
+#EXTINF:-1 catchup="default" group-title="ЦТВ", Карусель (+2)
+https://mhd128.iptv2022.com/p/XlcNTR7O2McgdsS9rHAoiw,1749675607/streaming/karuselplus2/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 catchup="default" group-title="ЦТВ", Рен ТВ +2
 https://mhd128.iptv2022.com/p/Ei4ucs5U9Wdcl31Gh7XgEw,1749675605/streaming/rentvplus2/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 catchup="default" group-title="20 КАНАЛОВ", СТС (+2)
+#EXTINF:-1 catchup="default" group-title="ЦТВ", СТС (+2)
 https://mhd128.iptv2022.com/p/DhXVngS1LbmSImR3Q-NxSA,1749675605/streaming/stsplus2/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 catchup="default" group-title="20 КАНАЛОВ", Домашний +2
+#EXTINF:-1 catchup="default" group-title="ЦТВ", Домашний +2
 https://mhd128.iptv2022.com/p/u2MkfylxXyUUWnkzxgH0RQ,1749675606/streaming/homeplus2/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 catchup="default" group-title="20 КАНАЛОВ", Пятница +2
+#EXTINF:-1 catchup="default" group-title="ЦТВ", Пятница +2
 https://mhd128.iptv2022.com/p/T3nPQi1FEzk7YhB8fyHC1g,1749675606/streaming/fridayplus2/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 catchup="default" group-title="20 КАНАЛОВ", ТНТ (+2)
+#EXTINF:-1 catchup="default" group-title="ЦТВ", ТНТ (+2)
 https://mhd128.iptv2022.com/p/QqD7KkuoPZVjXD5t3KnR1w,1749675607/streaming/tntplus2/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 catchup="default" group-title="20 КАНАЛОВ", Муз ТВ (+2)
+#EXTINF:-1 catchup="default" group-title="ЦТВ", Муз ТВ (+2)
 https://mhd128.iptv2022.com/p/zVu2ZLj3Hw2SHOU1KUGCPA,1749675608/streaming/muztvplus2/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", VIJU+ PREMIERE HD
@@ -584,8 +584,8 @@ http://109.200.130.123:7537/play/a024
 #EXTVLCOPT:http-user-agent=SmartTV
 https://livetv.mylifeisgood.net.ru/channels/ryjii.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms губка боб" group-title="Детские",CMS Губка Боб
-http://cdn1.starcinemax.fun:2095/0382/index.m3u8?token=137946825
+#EXTINF:-1 group-title="Детские",Губка БоБ
+http://217.79.179.127:8082/rDs0/ts/bob_id214.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMS8yMDI1IDExOjM4OjI2IEFNJmhhc2hfdmFsdWU9TEpZMnRHUU5ueldQMnZsNy9YSW82Zz09JnZhbGlkbWludXRlcz0xODAmaXA9MzEuOC4wLjQ4JmNoZWNraXA9dHJ1ZQ==
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms гравити фолс" group-title="Детские",CMS Гравити Фолс
 http://cdn1.starcinemax.fun:2095/0068/index.m3u8?token=137946825
