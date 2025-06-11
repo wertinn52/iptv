@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz"
 #EXTM3U x-tvg-url="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz"
 
-#EXTINF:-1,Обновление было 16.05.2025
+#EXTINF:-1,Обновление было 11.06.2025
 https://files.voicy.network/public/Content/SoundGIFs/Video/d012d8a6-f095-4bd2-8336-fd77f859754f.mp4
 
 #EXTINF:-1 tvg-id="1kanalplus2" tvg-name="1 Канал Плюс" tvg-logo="" group-title="20 КАНАЛОВ",1 Канал Плюс
