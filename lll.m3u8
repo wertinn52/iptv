@@ -49,7 +49,7 @@ http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOi
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", VIJU+ SERIAL HD
 http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk2ODAyMzUsImlhdCI6MTc0OTU5MzgzNSwiY2lkIjo2LCJ1aWQiOjkyMjk3OTgyMCwicmVnIjpmYWxzZSwiaXAiOjMyNTA0MTQ3OTYsImFkdWx0IjpmYWxzZX0.xYD1NErfI1GzxRPA7P8SiAHtDXc8YHVB4qbw8VrYV9A&offset=3
 
-#EXTINF:-1 tvg-id="feniks-plus-kino" group-title="Кино и сериалы",Феникс+Кино HD
+#EXTINF:-1 tvg-id="143 group-title="Кино и сериалы", Феникс+ Кино
 https://mhd128.iptv2022.com/p/rNsim8C17K5mnqHMHDTY8g,1749675610/streaming/fenixkino/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="17046 group-title="Кино и сериалы", Кинеко
