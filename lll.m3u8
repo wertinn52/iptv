@@ -526,11 +526,8 @@ http://45.143.108.110:2200/davinci
 #EXTINF:-1 tvg-id="Multilandia.ru@SD" tvg-logo="https://i.imgur.com/ccwijY0.png" group-title="Детские",Мультиландия
 http://178.217.72.66:8080/multilandiya/index.m3u8
 
-#EXTINF:-1 group-title="Детские", СТС Kids
-http://213.91.178.133:8000/play/a07g
-
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские",СТС Kids HD
-http://api.peers.tv/timeshift/sts_kids_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk1NDMzODAsImlhdCI6MTc0OTQ1Njk4MCwiY2lkIjo2LCJ1aWQiOjkyMjYwMzIwNywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.yLQh8cHIxqiMTwNhISlW2G7eVy_COZ8UmKK0b7-du08&offset=3
+#EXTINF:-1 tvg-id="10353 group-title="Детские", СТС Kids
+https://mhd128.iptv2022.com/p/dkylkL73ecBHJDLgswlfDQ,1749675611/streaming/stskids/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Vgostyakhuskazki.ru" tvg-logo="https://i.imgur.com/jNJkLHl.png" group-title="Детские",В гостях у сказки
 https://s1.merlive.am/vgostyaxuskazki/index.m3u8
@@ -547,8 +544,8 @@ http://178.217.72.66:8080/O/index.m3u8
 #EXTINF:-1 group-title="Детские",Уникум
 http://31.148.48.15/Detskiy/index.m3u8
 
-#EXTINF:-1 group-title="Детские",Детский Мир
-http://178.124.152.238:8088/detmir
+#EXTINF:-1 tvg-id="10220 group-title="Детские", Детский Мир
+https://mhd128.iptv2022.com/p/d2BvoCEerfKPJPaO5copGg,1749675611/streaming/detmir/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские",Gulli Girl
 http://api.peers.tv/timeshift/gulli_girl/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk2ODAyMzUsImlhdCI6MTc0OTU5MzgzNSwiY2lkIjo2LCJ1aWQiOjkyMjk3OTgyMCwicmVnIjpmYWxzZSwiaXAiOjMyNTA0MTQ3OTYsImFkdWx0IjpmYWxzZX0.xYD1NErfI1GzxRPA7P8SiAHtDXc8YHVB4qbw8VrYV9A&offset=3
@@ -571,8 +568,8 @@ http://195.245.99.242/Tiji/playlist.m3u8
 #EXTINF:-1 group-title="Детские",СуперГерои
 http://178.124.179.122:8088/Malish/index.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские", КАПИТАН ФАНТАСТИКА HD
-http://api.peers.tv/timeshift/ginger_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk1NDMzODAsImlhdCI6MTc0OTQ1Njk4MCwiY2lkIjo2LCJ1aWQiOjkyMjYwMzIwNywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.yLQh8cHIxqiMTwNhISlW2G7eVy_COZ8UmKK0b7-du08&offset=3
+#EXTINF:-1 tvg-id="10158 group-title="Детские", Капитан Фантастика HD
+https://mhd128.iptv2022.com/p/VeEgQ58yKPzfEm_MetYBlA,1749675611/streaming/gingerhd/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 group-title="Детские",Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
@@ -580,15 +577,11 @@ http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
 #EXTINF:-1 tvg-id="kinomult" group-title="Детские",Киномульт
 http://109.200.130.123:7537/play/a024
 
-#EXTINF:-1 tvg-id="ryzhy" group-title="Детские", Рыжий
-#EXTVLCOPT:http-user-agent=SmartTV
-https://livetv.mylifeisgood.net.ru/channels/ryjii.m3u8
+#EXTINF:-1 tvg-id="10359 group-title="Детские", Рыжий
+https://mhd128.iptv2022.com/p/_ldBwiWFTBLCwmW1UPEerw,1749675611/streaming/ginger-surd/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 group-title="Детские",Губка Боб
-http://217.79.179.127:8082/rDs0/ts/bob_id214.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMS8yMDI1IDExOjM4OjI2IEFNJmhhc2hfdmFsdWU9TEpZMnRHUU5ueldQMnZsNy9YSW82Zz09JnZhbGlkbWludXRlcz0xODAmaXA9MzEuOC4wLjQ4JmNoZWNraXA9dHJ1ZQ==
-
-#EXTINF:-1 group-title="Детские",Время Приключений
-http://217.79.179.127:8082/rDs0/ts/atime.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMS8yMDI1IDExOjQzOjI5IEFNJmhhc2hfdmFsdWU9MTd2SFk2UGxFN3JDeVpsWXRXVG9lZz09JnZhbGlkbWludXRlcz0xODAmaXA9MzEuOC4wLjQ4JmNoZWNraXA9dHJ1ZQ==
+#EXTINF:-1 tvg-id="13987 group-title="Детские", ТипТоп
+https://mhd128.iptv2022.com/p/hjysJ-ofl0Nvbcb4I2zqEw,1749675611/streaming/tiptop/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="aiva" group-title="Музыкальные", AIVA
 https://stream-msk-11.ott.tricolor.tv/dtv/id935_MSKSG-PVR-1--AIVA_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MDA1NTMwNSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzQ5NDUwNTA1LCJzZXNzaW9uX2lkIjoiZDFlMTUwNzUzMWMwYWY1OGQzNzAwYmVhZTMwZGJmZjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ZWAEF-fXv0YunZk6JkToUviBig_V7uMlP0KoioZIQfA
