@@ -530,7 +530,7 @@ https://stream-msk-20.ott.tricolor.tv/dtv/id975_MSKSG-PVR-1--2x2/02/plst.m3u8?dr
 #EXTINF:-1 tvg-id="da-vinci" group-title="Детские", Да Винчи
 http://45.143.108.110:2200/davinci
 
-#EXTINF:-1 tvg-id="Multilandia.ru@SD" tvg-logo="https://i.imgur.com/ccwijY0.png" group-title="Детские",Multilandia
+#EXTINF:-1 tvg-id="Multilandia.ru@SD" tvg-logo="https://i.imgur.com/ccwijY0.png" group-title="Детские",Мультиландия
 http://178.217.72.66:8080/multilandiya/index.m3u8
 
 #EXTINF:-1 group-title="Детские", СТС Kids
