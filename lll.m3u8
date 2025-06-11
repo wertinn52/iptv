@@ -4,14 +4,14 @@
 #EXTINF:-1,Обновление было 11.06.2025
 https://files.voicy.network/public/Content/SoundGIFs/Video/d012d8a6-f095-4bd2-8336-fd77f859754f.mp4
 
-#EXTINF:-1 tvg-id="1kanalplus2" tvg-name="1 Канал Плюс" tvg-logo="" group-title="20 КАНАЛОВ",1 Канал Плюс
-https://mhd156.iptv2022.com/p/t-VWrHaGH8UtY35VePBOkw,1749671071/streaming/1kanalplus2-drm/324/5/tracks-v4a1/mono.m3u8
+#EXTINF:-1 catchup="default" group-title="20 КАНАЛОВ", Первый канал (+2)
+https://mhd128.iptv2022.com/p/8az9fR-OGvddGcLQo4Y88A,1749675604/streaming/1kanalplus2/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="rossia1plus2" tvg-name="Россия 1 Плюс" tvg-logo="" group-title="20 КАНАЛОВ",Россия 1
-https://mhd116.iptv2022.com/p/vKG4MDoxtrc8mqVQ9NQ-bA,1749669864/streaming/rossia1plus2-drm/324/5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="20 КАНАЛОВ", Россия 1 (+2)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
 
-#EXTINF:-1 tvg-id="ntvplus2" tvg-name="НТВ Плюс" tvg-logo="" group-title="20 КАНАЛОВ",НТВ 
-https://mhd128.iptv2022.com/p/J9x3hgAEMyZHqlnE-_AXAw,1749670746/streaming/ntvplus2-drm/324/5/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="20 КАНАЛОВ" tvg-logo="http://epg.it999.ru/img/2036.png",НТВ +2
+https://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="20 КАНАЛОВ",Карусель +2
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -21,9 +21,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="20 КАНАЛОВ",Рен ТВ +2
-#EXTVLCOPT:http-user-agent=SmartTV
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
+#EXTINF:-1 catchup="default" group-title="20 КАНАЛОВ", Рен ТВ +2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/Ei4ucs5U9Wdcl31Gh7XgEw,1749675605/streaming/rentvplus2/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="20 КАНАЛОВ",СТС (+2)
 #EXTVLCOPT:http-user-agent=SmartTV
