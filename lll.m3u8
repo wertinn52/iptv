@@ -584,11 +584,11 @@ http://109.200.130.123:7537/play/a024
 #EXTVLCOPT:http-user-agent=SmartTV
 https://livetv.mylifeisgood.net.ru/channels/ryjii.m3u8
 
-#EXTINF:-1 group-title="Детские",Губка БоБ
+#EXTINF:-1 group-title="Детские",Губка Боб
 http://217.79.179.127:8082/rDs0/ts/bob_id214.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMS8yMDI1IDExOjM4OjI2IEFNJmhhc2hfdmFsdWU9TEpZMnRHUU5ueldQMnZsNy9YSW82Zz09JnZhbGlkbWludXRlcz0xODAmaXA9MzEuOC4wLjQ4JmNoZWNraXA9dHJ1ZQ==
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms гравити фолс" group-title="Детские",CMS Гравити Фолс
-http://cdn1.starcinemax.fun:2095/0068/index.m3u8?token=137946825
+#EXTINF:-1 group-title="Детские",Время Приключений
+http://217.79.179.127:8082/rDs0/ts/atime.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMS8yMDI1IDExOjQzOjI5IEFNJmhhc2hfdmFsdWU9MTd2SFk2UGxFN3JDeVpsWXRXVG9lZz09JnZhbGlkbWludXRlcz0xODAmaXA9MzEuOC4wLjQ4JmNoZWNraXA9dHJ1ZQ==
 
 #EXTINF:-1 tvg-id="aiva" group-title="Музыкальные", AIVA
 https://stream-msk-11.ott.tricolor.tv/dtv/id935_MSKSG-PVR-1--AIVA_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MDA1NTMwNSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzQ5NDUwNTA1LCJzZXNzaW9uX2lkIjoiZDFlMTUwNzUzMWMwYWY1OGQzNzAwYmVhZTMwZGJmZjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ZWAEF-fXv0YunZk6JkToUviBig_V7uMlP0KoioZIQfA
