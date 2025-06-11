@@ -570,8 +570,8 @@ https://mhd128.iptv2022.com/p/VeEgQ58yKPzfEm_MetYBlA,1749675611/streaming/ginger
 #EXTINF:-1 group-title="Детские",Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
 
-#EXTINF:-1 tvg-id="kinomult" group-title="Детские",Киномульт
-http://109.200.130.123:7537/play/a024
+#EXTINF:0 group-title="Детские" tvg-id="9024" tvg-logo="http://epg.one/img/9024.png" tvg-rec="0",КиноМульт
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/20009/index.m3u8
 
 #EXTINF:-1 tvg-id="10359 group-title="Детские", Рыжий
 https://mhd128.iptv2022.com/p/_ldBwiWFTBLCwmW1UPEerw,1749675611/streaming/ginger-surd/324/1/tracks-v5a1/mono.m3u8
