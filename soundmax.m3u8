@@ -7,8 +7,8 @@ https://dn720404.ca.archive.org/0/items/20070515-rick-roll-d-o-hg-5-sjyrha-0/200
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ЦТВ",Первый канал (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
 
-#EXTINF:-1 group-title="ЦТВ", Россия 1 (+2)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ЦТВ",Россия 1 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 
 #EXTINF:-1 group-title="ЦТВ",НТВ +2
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=NTV_2_hd
@@ -51,9 +51,6 @@ http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJI
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы" ,КИНЕКО
 http://api.peers.tv/timeshift/kineko_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk3OTc4MjgsImlhdCI6MTc0OTcxMTQyOCwiY2lkIjo2LCJ1aWQiOjkyMzIyMjQ0MCwicmVnIjpmYWxzZSwiaXAiOjExNTI4OTg1MzYsImFkdWx0IjpmYWxzZX0.NrZdeeNk6x4xz4Jj9imvRcbpwD55TsPIeMnceUoTY-w&offset=10
-
-#EXTINF:-1 group-title="Кино и Сериалы",Феникс+кино
-http://arbiter.bolshoe.tv/?path=streaming/fenixkino/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI1IDY6NTc6MTAgQU0maGFzaF92YWx1ZT02MzZBczJQNWZ3QmFaa3hXb0hKcTZnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc
 
 #EXTINF:-1 tvg-id="sapfir" group-title="Кино и сериалы", Сапфир HD
 https://stream-msk-17.ott.tricolor.tv/dtv/id991_MSKSG-PVR-1--Sapphire_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MDA1NTMwNSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzQ5NDUwNTA1LCJzZXNzaW9uX2lkIjoiZDFlMTUwNzUzMWMwYWY1OGQzNzAwYmVhZTMwZGJmZjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ZWAEF-fXv0YunZk6JkToUviBig_V7uMlP0KoioZIQfA
