@@ -553,6 +553,9 @@ http://178.212.71.253:8000/play/112/index.m3u8
 #EXTINF:-0 group-title"Детские",Cartoon Network
 https://server3.musical.uz/cartonnet_web/tracks-v1a1/mono.m3u8?remote=178.129.155.251&token=36c5a9ded8a008613fdfc83f4dd05c121ce6f7b0-e6fe7ae63273338fb497eae48499076a-1749857947-1749847147
 
+#EXTINF:-0 group-title"Детские",Cartoonito
+http://133ac368.ucomist.net/iptv/GXEBH8LM3R4AC9/723/index.m3u8
+
 #EXTINF:-0 group-title"Детские",Nickelodeon
 https://server2.musical.uz/nick_web/tracks-v1a1/mono.m3u8?remote=178.129.155.251&token=0db14e2c10f66a41a7b34105d2f418f4d02d8913-f49c07c1111686f6e4c7917418b12b34-1749858100-1749847300
 
