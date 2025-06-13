@@ -526,8 +526,8 @@ http://178.217.72.66:8080/multilandiya/index.m3u8
 #EXTINF:-1 group-title="Детские",Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
 
-#EXTINF:-1 group-title="Детские",В гостях у сказки
-https://stream08.sputnik24.tv/skazka_hd/index.m3u8?sig=1749879118_3976faf67e1764c4dcb38b0e010c7f4
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские" ,В гостях у сказки
+http://api.peers.tv/timeshift/v_gostyah_u_skazki/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk5Mjc2NDYsImlhdCI6MTc0OTg0MTI0NiwiY2lkIjo2LCJ1aWQiOjkyMzU2MjUwOSwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.jmteqpC5QDQp-aLcw067lekxKC9HS9L6jMe6UQAWuTc&offset=10
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские" ,Уникум
 http://api.peers.tv/timeshift/forkids/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk4ODQ0OTksImlhdCI6MTc0OTc5ODA5OSwiY2lkIjo2LCJ1aWQiOjkyMzQ1MDE5NywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjIwNDAsImFkdWx0IjpmYWxzZX0.D7WNx3K2LPmRk92584XGa-oEkb4Uv-XkteS0xXMC5l0&offset=10
@@ -567,9 +567,6 @@ https://salam-ufa-13.rutube.ru/dive/river-3-313.rutube.ru/hOKvNZwtFJKoiqrUKM1wBw
 
 #EXTINF:-0 group-title"Детские",Смайл
 https://salam-ufa-13.rutube.ru/dive/river-5-523.rtbcdn.ru/0gnl1zl9OjDaK0vcR0-Hmw/stream/genetta-317.m9.rutube.ru/AN3oJwXAa04mCc7dfJRMIw/1750447113/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
-
-#EXTINF:-1 tvg-id="kinomult" group-title="Детские",Киномульт
-http://109.200.130.123:7537/play/a024
 
 #EXTINF:-1 group-title="Детские",Детский мир
 http://178.124.152.238:8088/detmir
