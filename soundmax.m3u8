@@ -526,6 +526,9 @@ https://stream-msk-20.ott.tricolor.tv/dtv/id975_MSKSG-PVR-1--2x2/02/plst.m3u8?dr
 #EXTINF:-0 group-title"Детские",Cartoon Network
 https://server3.musical.uz/cartonnet_web/tracks-v1a1/mono.m3u8?remote=178.129.155.251&token=36c5a9ded8a008613fdfc83f4dd05c121ce6f7b0-e6fe7ae63273338fb497eae48499076a-1749857947-1749847147
 
+#EXTINF:-0 group-title"Детские",Nickelodeon
+https://server2.musical.uz/nick_web/tracks-v1a1/mono.m3u8?remote=178.129.155.251&token=0db14e2c10f66a41a7b34105d2f418f4d02d8913-f49c07c1111686f6e4c7917418b12b34-1749858100-1749847300
+
 #EXTINF:-1 tvg-id="da-vinci" group-title="Детские", Да Винчи
 http://45.143.108.110:2200/davinci
 
