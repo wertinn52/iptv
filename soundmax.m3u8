@@ -562,11 +562,11 @@ http://api.peers.tv/timeshift/ginger_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1N
 #EXTINF:-1 group-title="Детские",Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
 
-#EXTINF:-1 group-title="Детские",Вселенная мультфильмов
-https://salam-mskth-16.rutube.ru/dive/river-3-313.rutube.ru/CO974nB-f3BwYJ38fLS9_Q/stream/genetta-503.ost.rutube.ru/k6HqO93ahmubSDiQ1_aE7g/1750447350/66710e44c6f796f0b754794ca2585229/1080p_stream.m3u8
-
 #EXTINF:-0 group-title"Детские",Смайл
 https://salam-ufa-13.rutube.ru/dive/river-5-523.rtbcdn.ru/0gnl1zl9OjDaK0vcR0-Hmw/stream/genetta-317.m9.rutube.ru/AN3oJwXAa04mCc7dfJRMIw/1750447113/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
+
+#EXTINF:-1 group-title="Детские",Вселенная мультфильмов
+https://salam-ufa-13.rutube.ru/dive/river-3-313.rutube.ru/hOKvNZwtFJKoiqrUKM1wBw/stream/genetta-503.ost.rutube.ru/7vZ2J8jmaJhZ7_U0Yr9GDw/1750447947/66710e44c6f796f0b754794ca2585229/720p_stream.m3u8
 
 #EXTINF:-1 tvg-id="aiva" group-title="Музыкальные", AIVA
 https://stream-msk-11.ott.tricolor.tv/dtv/id935_MSKSG-PVR-1--AIVA_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MDA1NTMwNSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzQ5NDUwNTA1LCJzZXNzaW9uX2lkIjoiZDFlMTUwNzUzMWMwYWY1OGQzNzAwYmVhZTMwZGJmZjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ZWAEF-fXv0YunZk6JkToUviBig_V7uMlP0KoioZIQfA
