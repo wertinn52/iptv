@@ -544,8 +544,8 @@ http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Детские", О!
 http://178.217.72.66:8080/O/index.m3u8
 
-#EXTINF:-1 group-title="Детские",Уникум
-http://arbiter.bolshoe.tv/?path=streaming/forkids/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDc6MDE6NDAgQU0maGFzaF92YWx1ZT1qNStubVVrUzNCNldGQnZjSHhHTTN3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские" ,Уникум
+http://api.peers.tv/timeshift/forkids/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk4ODQ0OTksImlhdCI6MTc0OTc5ODA5OSwiY2lkIjo2LCJ1aWQiOjkyMzQ1MDE5NywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjIwNDAsImFkdWx0IjpmYWxzZX0.D7WNx3K2LPmRk92584XGa-oEkb4Uv-XkteS0xXMC5l0&offset=10
 
 #EXTINF:-1 group-title="Детские",Детский мир
 http://178.124.152.238:8088/detmir
@@ -556,8 +556,8 @@ http://195.245.99.242/Tiji/playlist.m3u8
 #EXTINF:-1 group-title="Детские",СуперГерои
 http://178.124.179.122:8088/Malish/index.m3u8
 
-#EXTINF:-1 group-title="Детские",Капитан фантастика HD
-http://arbiter.bolshoe.tv/?path=abr1/GingerHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDc6MDE6NDAgQU0maGFzaF92YWx1ZT1qNStubVVrUzNCNldGQnZjSHhHTTN3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские" ,Капитан Фантастика
+http://api.peers.tv/timeshift/ginger_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk4ODQ0OTksImlhdCI6MTc0OTc5ODA5OSwiY2lkIjo2LCJ1aWQiOjkyMzQ1MDE5NywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjIwNDAsImFkdWx0IjpmYWxzZX0.D7WNx3K2LPmRk92584XGa-oEkb4Uv-XkteS0xXMC5l0&offset=10
 
 #EXTINF:-1 group-title="Детские",Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
