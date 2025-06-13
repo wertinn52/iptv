@@ -53,7 +53,6 @@ http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOi
 http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk4OTI1ODAsImlhdCI6MTc0OTgwNjE4MCwiY2lkIjo2LCJ1aWQiOjkyMzQ2ODA0NywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.RRh1hk4wlKeK9P03L0sPEH6buJYK6qbao1Gph0UA_48&offset=3
 
 #EXTINF:-1 tvg-id="feniks-plus-kino" group-title="Кино и сериалы",Феникс+Кино HD
-#EXTVLCOPT:http-user-agent=SmartTV
 https://mhd128.iptv2022.com/p/NcM3Ux18fhbZ7hJ-0BGT8w,1749848407/streaming/fenixkino/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="kineko" group-title="Кино и сериалы",Кинеко HD
