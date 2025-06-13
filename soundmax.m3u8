@@ -565,8 +565,8 @@ http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
 #EXTINF:-0 group-title"Детские",Мульт Бум
 https://vsd246.okcdn.ru/dash/stream_4087812852332/stream.manifest/sig/mCObQ4--ha4/expires/1749930199855/srcIp/178.129.155.251/urls/185.226.53.66/clientType/0/srcAg/GECKO/mid/5385622068844/stream-high.jidx?_rnd=57369500
 
-#EXTINF:-0 group-title="Детские",Kids TV
-https://origin5.mediacdn.ru/live/kidstv/index.m3u8
+#EXTINF:-0 group-title="Детские",Время Приключений
+http://217.79.179.127:8082/rDs0/ts/atime.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDg6MTQ6MTUgUE0maGFzaF92YWx1ZT1nNnZ3VCs0MENrNDhLN1hzb1dIdFFnPT0mdmFsaWRtaW51dGVzPTE4MCZpcD0xNzguMTI5LjE1NS4yNTEmY2hlY2tpcD10cnVl
 
 #EXTINF:-0 group-title"Детские",Смайл
 https://salam-ufa-13.rutube.ru/dive/river-5-523.rtbcdn.ru/0gnl1zl9OjDaK0vcR0-Hmw/stream/genetta-317.m9.rutube.ru/AN3oJwXAa04mCc7dfJRMIw/1750447113/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
