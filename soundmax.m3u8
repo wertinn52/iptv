@@ -531,8 +531,8 @@ http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
 #EXTINF:-1 group-title="Детские", О!
 http://178.217.72.66:8080/O/index.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские" , В гостях у сказки
-http://api.peers.tv/timeshift/v_gostyah_u_skazki/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk5Mjc2NDYsImlhdCI6MTc0OTg0MTI0NiwiY2lkIjo2LCJ1aWQiOjkyMzU2MjUwOSwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.jmteqpC5QDQp-aLcw067lekxKC9HS9L6jMe6UQAWuTc&offset=10
+#EXTINF:-1 group-title="Детские", В гостях у сказки
+http://cdn.admuspeh.my/8133/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские" , Уникум
 http://api.peers.tv/timeshift/forkids/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk4ODQ0OTksImlhdCI6MTc0OTc5ODA5OSwiY2lkIjo2LCJ1aWQiOjkyMzQ1MDE5NywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjIwNDAsImFkdWx0IjpmYWxzZX0.D7WNx3K2LPmRk92584XGa-oEkb4Uv-XkteS0xXMC5l0&offset=10
@@ -555,8 +555,8 @@ http://178.212.71.253:8000/play/112/index.m3u8
 #EXTINF:-0 group-title"Детские", Cartoon Network
 https://server3.musical.uz/cartonnet_web/tracks-v1a1/mono.m3u8?remote=178.129.155.251&token=36c5a9ded8a008613fdfc83f4dd05c121ce6f7b0-e6fe7ae63273338fb497eae48499076a-1749857947-1749847147
 
-#EXTINF:-0 group-title"Детские", Cartoonito TOKEN
-http://133ac368.ucomist.net/iptv/GXEBH8LM3R4AC9/723/index.m3u8
+#EXTINF:-0 group-title"Детские", Cartoonito
+http://cdn.admuspeh.my/8332/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-0 group-title"Детские", Magic Disney TOKEN
 http://133ac368.ucomist.net/iptv/GXEBH8LM3R4AC9/18064/index.m3u
