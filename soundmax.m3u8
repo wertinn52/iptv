@@ -10,6 +10,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ЦТВ",Россия 1 (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 
+#EXTINF:-1 group-title="ЦТВ",Матч ТВ
+http://92.53.64.197:5050/match_tv/video.m3u8?token=m3VIth-Rou_bM1
+
 #EXTINF:-1 group-title="ЦТВ",НТВ +2
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=NTV_2_hd
 
