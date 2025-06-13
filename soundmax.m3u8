@@ -577,7 +577,7 @@ https://server2.musical.uz/nick_web/tracks-v1a1/mono.m3u8?remote=178.129.155.251
 #EXTINF:-0 group-title"Детские",Nick JR
 https://tv.tvcdnpotok.com/-FlXDiHAumkOP850WpiGug/210/1749866538/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms щенячий патруль" group-title="Детские",CMS Щенячий патруль
+#EXTINF:-1 group-title="Детские",CMS Щенячий патруль
 http://cdn2.starcinemax.fun:2095/3007/index.m3u8?token=137946825
 
 #EXTINF:-1 tvg-id="kidstv" group-title="Детские", Kids TV HD
