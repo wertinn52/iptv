@@ -562,6 +562,9 @@ http://api.peers.tv/timeshift/ginger_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1N
 #EXTINF:-1 group-title="Детские",Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
 
+#EXTINF:-0 group-title"Детские",Мульт Бум
+https://vsd246.okcdn.ru/dash/stream_4087812852332/stream.manifest/sig/mCObQ4--ha4/expires/1749930199855/srcIp/178.129.155.251/urls/185.226.53.66/clientType/0/srcAg/GECKO/mid/5385622068844/stream-high.jidx?_rnd=57369500
+
 #EXTINF:-0 group-title="Детские",Kids TV
 https://origin5.mediacdn.ru/live/kidstv/index.m3u8
 
