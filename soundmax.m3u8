@@ -598,7 +598,10 @@ http://cdn.admuspeh.my/8231/video.m3u8?token=NVbvJ28N26iEqQiP
 http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 
 #EXTINF:-0 group-title="Детские", Вселенная мультфильмов
-https://salam-ufa-13.rutube.ru/dive/river-3-313.rutube.ru/hOKvNZwtFJKoiqrUKM1wBw/stream/genetta-503.ost.rutube.ru/7vZ2J8jmaJhZ7_U0Yr9GDw/1750447947/66710e44c6f796f0b754794ca2585229/720p_stream.m3u8
+https://salam-mskth-5.rutube.ru/dive/river-3-313.rutube.ru/_eyidKlA6DIchTCuVaccKA/stream/genetta-524.ost.rutube.ru/drx0l2clOGJZUH5SYsEOYA/1750508505/66710e44c6f796f0b754794ca2585229/720p_stream.m3u8
+
+#EXTINF:-0 group-title="Детские", Вселенная мультфильмов test
+https://bl.rutube.ru/livestream/66710e44c6f796f0b754794ca2585229/index.m3u8?s=fk3vq4F1gVlPZTP7EI9Teg&e=1749927513&scheme=https
 
 #EXTINF:-1 group-title="Детские", Kernel TV Губка Боб Квадратные Штаны HD
 http://cdn.admuspeh.my/9057/video.m3u8?token=NVbvJ28N26iEqQiP
@@ -634,7 +637,7 @@ http://cdn.admuspeh.my/9089/video.m3u8?token=NVbvJ28N26iEqQiP
 http://cdn.admuspeh.my/9066/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-0 group-title"Детские",Смайл
-https://salam-ufa-13.rutube.ru/dive/river-5-523.rtbcdn.ru/0gnl1zl9OjDaK0vcR0-Hmw/stream/genetta-317.m9.rutube.ru/AN3oJwXAa04mCc7dfJRMIw/1750447113/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
+https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 
 #EXTINF:-1 group-title="Детские",Детский мир
 http://178.124.152.238:8088/detmir
