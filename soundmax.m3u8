@@ -46,8 +46,17 @@ http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_2_sd
 #EXTINF:-1 group-title="ЦТВ",Домашний (+2)
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=dom_sd_4
 
+#EXTINF:-1 group-title="ЦТВ",ТВ-3 (+2)
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd_2
+
 #EXTINF:-1 group-title="ЦТВ",ПЯТНИЦА! +2
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Friday_2_hd
+
+#EXTINF:-1 group-title="ЦТВ",ЗВЕЗДА +2
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Zvezda_2_hd
+
+#EXTINF:-1 group-title="ЦТВ", Мир (+2)
+https://mhd128.iptv2022.com/p/25S54cenuhZMLlVGYjFjuw,1749934807/streaming/mirplus2/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 group-title="ЦТВ",ТНТ (+2)
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tnt_hd_2
