@@ -19,20 +19,8 @@ http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=NTV_2_hd
 #EXTINF:-1 group-title="ЦТВ",Пятый канал +2
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=5_kanal_2
 
-#EXTINF:-1 group-title="ЦТВ", Россия Культура (+2)
-https://mhd128.iptv2022.com/p/LeYvH4-zeg1uhIiAK6ow6w,1749934806/streaming/rossiakplus2/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-0 group-title="ЦТВ", Россия 24
-https://mhd120.iptv2022.com/p/dciLGoA6V8-ZlLmCCs0dfw,1749954796/streaming/rossia24nn-drm/324/5/tracks-v4a1/mono.m3u8
-
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ЦТВ",Карусель +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
-
-#EXTINF:-1 group-title="ЦТВ", ОТР (+2)
-https://mhd128.iptv2022.com/p/ikAP9mAE5ve4f4Y3M-BCxw,1749934805/streaming/otrplus2/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 group-title="ЦТВ", ТВ Центр +2
-https://mhd128.iptv2022.com/p/lJVUOn152qlPLieAloFaZQ,1749934805/streaming/tvcplus2/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 group-title="ЦТВ",РЕН ТВ +2
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=REN-TV_2_sd
@@ -51,12 +39,6 @@ http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd_2
 
 #EXTINF:-1 group-title="ЦТВ",ПЯТНИЦА! +2
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Friday_2_hd
-
-#EXTINF:-1 group-title="ЦТВ",ЗВЕЗДА +2
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Zvezda_2_hd
-
-#EXTINF:-1 group-title="ЦТВ", Мир (+2)
-https://mhd128.iptv2022.com/p/25S54cenuhZMLlVGYjFjuw,1749934807/streaming/mirplus2/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 group-title="ЦТВ",ТНТ (+2)
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tnt_hd_2
