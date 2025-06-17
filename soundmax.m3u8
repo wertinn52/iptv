@@ -73,8 +73,8 @@ https://stream-msk-01.ott.tricolor.tv/dtv/id702_MSKSG-PVR-1--Amedia_hit/04/plst.
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Premium HD
 https://stream-msk-13.ott.tricolor.tv/dtv/id705_MSKSG-PVR-1--Amedia_premium/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MDY2NDIxMiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUwMDU5NDEyLCJzZXNzaW9uX2lkIjoiOWIwM2JkZWZiMWFlZGZkNDlkMDg1YTczZmMyZjI2OTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.oup_-26s2K6Q23A1OngOwOjVSN8ZbN3WoTqgrD7glf8
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", .black
-https://mhd116.iptv2022.com/p/5v4GbdIIzxczfJtvUTSmMA,1750186694/streaming/black/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", .black
+http://api.peers.tv/timeshift/sony_turbo/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAyMjk4MzQsImlhdCI6MTc1MDE0MzQzNCwiY2lkIjo2LCJ1aWQiOjkyNDMyMTQzNiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.lPIbZehBKtwgL2FH7Nlnh1FAdp0rAYHI2wpolfWwMK4&offset=10
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", .red
 http://178.124.152.238:8088/sony
@@ -145,50 +145,44 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Nash_Kinoroman
 #EXTINF:-1 group-title="Кино и сериалы", Лавстори
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Lovestory
 
-#EXTINF:-1 tvg-id="nashe-lubimoe-hd" group-title="Кино и сериалы", Любимое HD
+#EXTINF:-1 group-title="Кино и сериалы", Любимое HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Lubimoe_HD
 
-#EXTINF:-1 tvg-id="kino-tv" tvg-logo"https://epgx.site/p/kino-tv.png" group-title="Кино и сериалы", Кино ТВ HD
+#EXTINF:-1 group-title="Кино и сериалы", Кино ТВ HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kino_TV_HD
 
-#EXTINF:-1 tvg-id="fox" group-title="Кино и сериалы", FOX
-http://45.143.108.110:2203/FOX
-
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="lubimoe-kino" group-title="Кино и сериалы", Любимое кино
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Lubimoe_HD
+#EXTINF:-1 group-title="Кино и сериалы", FOX
+http://starcius-cinema.com/10123/index.m3u8?token=CBB7C980F321
 
 #EXTINF:-1 group-title="Кино и сериалы",Кинопремьера
 http://tvip.btk.teleos.ru:8081/chid518/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",Кинопремьера HD
-http://178.124.179.122:8088/Kinopremiera/index.m3u8
-
 #EXTINF:-1 group-title="Кино и сериалы",Кинохит
-http://178.212.71.253:8000/play/123/index.m3u8
+http://arbiter.bolshoe.tv/?path=streaming/kinohit/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDI1IDY6NTc6MTUgQU0maGFzaF92YWx1ZT1Ycjl5dW16OU9JUHdKUE0ydFhLZEVRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Кино и сериалы",Киносемья
-http://178.212.71.253:8000/play/127/index.m3u8
+http://tvip.btk.teleos.ru:8081/chid517/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы",Киномикс
-http://178.212.71.253:8000/play/70/index.m3u8
+http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Киносерия HD
-http://178.212.71.253:8000/play/64/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Киносерия HD
+http://31.210.208.171:8080/kinoseriya/index.m3u8?token=+W2MSER
 
-#EXTINF:-1 tvg-id="kinouzhas" group-title="Кино и сериалы", Киноужас
-http://178.212.71.253:8000/play/133/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Киноужас
+http://31.210.208.171:8080/kinouzhas/index.m3u8?token=+W2MSER
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="nashe-novoe-kino" group-title="Кино и сериалы",Наше новое кино HD
+#EXTINF:-1 group-title="Кино и сериалы",Наше новое кино HD
 http://178.212.71.253:8000/play/128/index.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",Кинокомедия HD
-http://178.212.71.253:8000/play/85/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Кинокомедия HD
+http://arbiter.bolshoe.tv/?path=abr1/komedia/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDI1IDY6NTc6MTUgQU0maGFzaF92YWx1ZT1Ycjl5dW16OU9JUHdKUE0ydFhLZEVRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
-#EXTINF:-1 tvg-id="rodnoe-kino" group-title="Кино и сериалы",Родное кино
-http://178.212.71.253:8000/play/136/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Родное кино
+https://mhd128.iptv2022.com/p/bEvuGTBtOVib9C02Ft1CHA,1750194007/streaming/rodnoe/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="muzhskoe-kino" group-title="Кино и сериалы", Мужское кино
-http://178.212.71.253:8000/play/126/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Мужское кино
+https://mhd116.iptv2022.com/p/PdD7-eSXkbgIySpFyYS5_g,1750186694/streaming/nashemuzskoe/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", День Победы HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Den_Pobedy
