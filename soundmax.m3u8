@@ -43,18 +43,6 @@ http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tnt_hd_2
 #EXTINF:-1 catchup="append" tvg-logo="http://only4.tv/ch/1313.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ЦТВ",Муз ТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", VIJU+ PREMIERE HD
-http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk4OTI1ODAsImlhdCI6MTc0OTgwNjE4MCwiY2lkIjo2LCJ1aWQiOjkyMzQ2ODA0NywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.RRh1hk4wlKeK9P03L0sPEH6buJYK6qbao1Gph0UA_48&offset=3
-
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",VIJU+ MEGAHIT HD
-http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk4OTI1ODAsImlhdCI6MTc0OTgwNjE4MCwiY2lkIjo2LCJ1aWQiOjkyMzQ2ODA0NywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.RRh1hk4wlKeK9P03L0sPEH6buJYK6qbao1Gph0UA_48&offset=3
-
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", VIJU+ COMEDY HD
-http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk4OTI1ODAsImlhdCI6MTc0OTgwNjE4MCwiY2lkIjo2LCJ1aWQiOjkyMzQ2ODA0NywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.RRh1hk4wlKeK9P03L0sPEH6buJYK6qbao1Gph0UA_48&offset=3
-
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", VIJU+ SERIAL HD
-http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk4OTI1ODAsImlhdCI6MTc0OTgwNjE4MCwiY2lkIjo2LCJ1aWQiOjkyMzQ2ODA0NywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.RRh1hk4wlKeK9P03L0sPEH6buJYK6qbao1Gph0UA_48&offset=3
-
 #EXTINF:-1 tvg-id="feniks-plus-kino" group-title="Кино и сериалы",Феникс+Кино HD
 http://cdn.admuspeh.my/8412/video.m3u8?token=NVbvJ28N26iEqQiP
 
@@ -64,32 +52,14 @@ http://cdn.admuspeh.my/8944/video.m3u8?token=NVbvJ28N26iEqQiP
 #EXTINF:-1 tvg-id="sapfir" group-title="Кино и сериалы", Сапфир HD
 https://stream-msk-17.ott.tricolor.tv/dtv/id991_MSKSG-PVR-1--Sapphire_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MDA1NTMwNSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzQ5NDUwNTA1LCJzZXNzaW9uX2lkIjoiZDFlMTUwNzUzMWMwYWY1OGQzNzAwYmVhZTMwZGJmZjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ZWAEF-fXv0YunZk6JkToUviBig_V7uMlP0KoioZIQfA
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="tv1000-russkoe-kino" group-title="Кино и сериалы",viju TV1000 Русское
-http://api.peers.tv/timeshift/tv_1000_rus_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk4OTI1ODAsImlhdCI6MTc0OTgwNjE4MCwiY2lkIjo2LCJ1aWQiOjkyMzQ2ODA0NywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.RRh1hk4wlKeK9P03L0sPEH6buJYK6qbao1Gph0UA_48&offset=3
-
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Кино и сериалы",viju TV1000 Русское HD
 http://5.3.176.223:81/udp/235.10.10.94:1234
 
 #EXTINF:-1 tvg-id="tv1000" group-title="Кино и сериалы", viju TV1000
-http://178.217.72.66:8080/TV_1000/index.m3u8
-
-#EXTINF:-1 tvg-id="tv1000" group-title="Кино и сериалы", viju TV1000 HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=zSBAVt_5cUi0sDorrBgN6g&e=1750042656&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=N2Dc3_4qYjLLejkZLZMgXA&e=1751139610&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 tvg-id="tv1000-action" group-title="Кино и сериалы",viju TV1000 Action
 http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
-
-#EXTINF:-1 tvg-id="tv1000-action" group-title="Кино и сериалы",viju TV1000 Action HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=6HKhbL-XPZ9gmBg1YRtf5Q&e=1750042720&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-
-#EXTINF:-1 tvg-id="viju-tv1000-romantica" group-title="Кино и сериалы",viju TV1000 romantica
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=D6ZvAOIiRxaaukKmEdN2IQ&e=1750042690&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-
-#EXTINF:-1 tvg-id="viju-tv1000-novella" group-title="Кино и сериалы",viju TV1000 Новелла
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=9Qczw2zRJLTahDPtRz9Cjw&e=1750042751&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-
-#EXTINF:-1 tvg-id="cinema" group-title="Кино и сериалы",Cinema Космос ТВ
-http://178.124.152.238:8088/cinema
 
 #EXTINF:-1 tvg-id="amedia1" group-title="Кино и сериалы", Amedia 1
 https://stream-msk-07.ott.tricolor.tv/dtv/id701_MSKSG-PVR-1--Amedia_a1/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MDA1NTMwNSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzQ5NDUwNTA1LCJzZXNzaW9uX2lkIjoiZDFlMTUwNzUzMWMwYWY1OGQzNzAwYmVhZTMwZGJmZjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ZWAEF-fXv0YunZk6JkToUviBig_V7uMlP0KoioZIQfA
