@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz"
 #EXTM3U x-tvg-url="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz"
 
-#EXTINF:-1 group-title="ОБНОВЛЕНО",ОБНОВЛЕНО 14.06.2025
+#EXTINF:-1 group-title="ОБНОВЛЕНО",ОБНОВЛЕНО 17.06.2025
 https://dn720404.ca.archive.org/0/items/20070515-rick-roll-d-o-hg-5-sjyrha-0/20070515%20-%20RickRollD%20-%20oHg5SJYRHA0.ia.mp4
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ЦТВ",Первый канал (+2)
@@ -11,7 +11,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 
 #EXTINF:-1 group-title="ЦТВ",Матч ТВ
-https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=lih-NUWAGmLaO7_aYXSyxg&e=1750100258&scheme=https
+http://92.53.64.197:5050/match_tv/video.m3u8?token=m3VIth-Rou_bM1
 
 #EXTINF:-1 group-title="ЦТВ",НТВ +2
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=NTV_2_hd
@@ -24,9 +24,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 
 #EXTINF:-1 group-title="ЦТВ",РЕН ТВ +2
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=REN-TV_2_sd
-
-#EXTINF:-1 group-title="ЦТВ", Спас (+2)
-https://mhd128.iptv2022.com/p/pH_L3rJSINbN-JoG9A2ILw,1749934807/streaming/spasplus2/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 group-title="ЦТВ",СТС +2
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_2_sd
@@ -80,7 +77,7 @@ http://178.217.72.66:8080/TV_1000/index.m3u8
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=zSBAVt_5cUi0sDorrBgN6g&e=1750042656&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 tvg-id="tv1000-action" group-title="Кино и сериалы",viju TV1000 Action
-http://178.217.72.66:8080/TV_1000_Action/index.m3u8
+http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
 
 #EXTINF:-1 tvg-id="tv1000-action" group-title="Кино и сериалы",viju TV1000 Action HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=6HKhbL-XPZ9gmBg1YRtf5Q&e=1750042720&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
