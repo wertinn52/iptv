@@ -100,12 +100,6 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ostrosuzhetnoe
 #EXTINF:-1 group-title="Кино и сериалы", Scream
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Scream
 
-#EXTINF:-1 group-title="Кино и сериалы", Камеди
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kamedi_HD
-
-#EXTINF:-1 group-title="Кино и сериалы", Комедийное HD
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Komediinoe
-
 #EXTINF:-1 group-title="Кино и сериалы", Комедия
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Komediya
 
