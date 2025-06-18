@@ -4,43 +4,43 @@
 #EXTINF:-1 group-title="ОБНОВЛЕНО",ОБНОВЛЕНО 17.06.2025
 https://dn720404.ca.archive.org/0/items/20070515-rick-roll-d-o-hg-5-sjyrha-0/20070515%20-%20RickRollD%20-%20oHg5SJYRHA0.ia.mp4
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ЦТВ",Первый канал (+2)
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ЦТВ",Первый канал +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
 
-#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ЦТВ",Россия 1 (+2)
+#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ЦТВ", Россия 1 +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 
-#EXTINF:-1 group-title="ЦТВ",Матч ТВ
-http://92.53.64.197:5050/match_tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="ЦТВ", Матч ТВ
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=match
 
-#EXTINF:-1 group-title="ЦТВ",НТВ +2
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=NTV_2_hd
+#EXTINF:-1 group-title="ЦТВ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", НТВ +2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
 
-#EXTINF:-1 group-title="ЦТВ",Пятый канал +2
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=5_kanal_2
+#EXTINF:-1 group-title="ЦТВ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятый канал +2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ЦТВ",Карусель +2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ЦТВ", Карусель +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 
-#EXTINF:-1 group-title="ЦТВ",РЕН ТВ +2
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=REN-TV_2_sd
+#EXTINF:-1 group-title="ЦТВ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", РЕН ТВ +2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
 
-#EXTINF:-1 group-title="ЦТВ",СТС +2
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_2_sd
+#EXTINF:-1 group-title="ЦТВ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС +2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
 
-#EXTINF:-1 group-title="ЦТВ",Домашний (+2)
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=dom_sd_4
+#EXTINF:-1 group-title="ЦТВ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Домашний +2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
 
-#EXTINF:-1 group-title="ЦТВ",ТВ-3 (+2)
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd_2
+#EXTINF:-1 group-title="ЦТВ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ3 +2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
 
-#EXTINF:-1 group-title="ЦТВ",ПЯТНИЦА! +2
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Friday_2_hd
+#EXTINF:-1 group-title="ЦТВ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="piatnica-pl2", Пятница! +2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
 
-#EXTINF:-1 group-title="ЦТВ",ТНТ (+2)
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tnt_hd_2
+#EXTINF:-1 group-title="ЦТВ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ +2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 
-#EXTINF:-1 catchup="append" tvg-logo="http://only4.tv/ch/1313.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ЦТВ",Муз ТВ (+2)
+#EXTINF:-1 catchup="append" tvg-logo="http://only4.tv/ch/1313.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ЦТВ", Муз ТВ +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 
 #EXTINF:-1 tvg-id="feniks-plus-kino" group-title="Кино и сериалы", Феникс+Кино HD
