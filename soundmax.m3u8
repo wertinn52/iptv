@@ -307,11 +307,11 @@ http://178.217.72.66:8080/O/index.m3u8
 #EXTINF:-0 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские", В гостях у сказки
 http://api.peers.tv/timeshift/v_gostyah_u_skazki/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAzMTYyNzMsImlhdCI6MTc1MDIyOTg3MywiY2lkIjo2LCJ1aWQiOjkyNDUzMjcxNywicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.-QUYPRADbNNumvWdomPZ5Vb11OwSl_lcro1cLNsYvn0&offset=10
 
-#EXTINF:-0 group-title="Детские", Уникум
-http://178.124.193.53:8181/play/1201/index.m3u8
+#EXTINF:-0 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские" ,Уникум
+http://api.peers.tv/timeshift/forkids/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAzNTk5ODIsImlhdCI6MTc1MDI3MzU4MiwiY2lkIjo2LCJ1aWQiOjkyNDY2ODMzNiwicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.k8mkzPvyFxSjvuQMYWhNiCOmmcrjol4EHLxbFgL83FA&offset=10
 
 #EXTINF:-0 group-title="Детские", Мама
-http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mama
 
 #EXTINF:-0 group-title="Детские" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", 2x2 +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
