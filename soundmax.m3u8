@@ -190,7 +190,10 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ruskiy_roman_HD
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Русский иллюзион
 http://api.peers.tv/timeshift/russian_illusion/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAzMTYyNzMsImlhdCI6MTc1MDIyOTg3MywiY2lkIjo2LCJ1aWQiOjkyNDUzMjcxNywicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.-QUYPRADbNNumvWdomPZ5Vb11OwSl_lcro1cLNsYvn0&offset=10
 
-#EXTINF:-0 group-title="Кинозалы 2", СВАТЫ
+#EXTINF:-0 group-title="Кинозалы 2", СВАТЫ HD
+http://cdn.admuspeh.my/8821/video.m3u8?token=NVbvJ28N26iEqQi
+
+#EXTINF:-0 group-title="Кинозалы 2", СВАТЫ HD 2
 http://cdn.admuspeh.my/9080/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 tvg-logo="http://i124.fastpic.org/big/2025/0304/c3/9d29366a560ba712d960bb053d8855c3.png" tvg-id="Исторический HD" group-title="Кинозалы 2", ИСТОРИЧЕСКИЙ HD
@@ -344,7 +347,7 @@ https://salam-mskth-5.rutube.ru/dive/river-3-313.rutube.ru/_eyidKlA6DIchTCuVaccK
 https://bl.rutube.ru/livestream/66710e44c6f796f0b754794ca2585229/index.m3u8?s=ct5nUvg29ydng3BiDtX6vg&e=1750272988&scheme=https
 
 #EXTINF:-0 group-title"Детские", Смайл
-https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+https://rec102.24h.tv/hlsjwt/552fbcd51e618d36a6e9424912ee4b2f2f020774-4350-0-24h398822997-1-2994838523-1750282555-e128-tX-l8KtTJQlN3XE8OqGn3PF6q3LeaAjpqFhD5ENapeI/37791.ts
 
 #EXTINF:-0 group-title="Детские", Детский мир
 http://178.124.193.53:8181/play/1437/index.m3u8
