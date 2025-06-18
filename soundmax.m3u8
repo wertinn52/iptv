@@ -43,14 +43,11 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="http://only4.tv/ch/1313.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ЦТВ", Муз ТВ +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 
-#EXTINF:-1 tvg-id="feniks-plus-kino" group-title="Кино и сериалы", Феникс+Кино HD
-http://cdn.admuspeh.my/8412/video.m3u8?token=NVbvJ28N26iEqQiP
-
-#EXTINF:-1 group-title="Кино и сериалы", Кинеко HD
-http://cdn.admuspeh.my/8944/video.m3u8?token=NVbvJ28N26iEqQiP
+#EXTINF:-1 group-title="Кино и сериалы",КИНЕКО
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kineko_HD
 
 #EXTINF:-1 tvg-id="sapfir" group-title="Кино и сериалы", Сапфир HD
-https://stream-msk-17.ott.tricolor.tv/dtv/id991_MSKSG-PVR-1--Sapphire_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MDA1NTMwNSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzQ5NDUwNTA1LCJzZXNzaW9uX2lkIjoiZDFlMTUwNzUzMWMwYWY1OGQzNzAwYmVhZTMwZGJmZjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ZWAEF-fXv0YunZk6JkToUviBig_V7uMlP0KoioZIQfA
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sapphire_HD
 
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Кино и сериалы", viju TV1000 Русское HD
 http://195.245.99.242/1000_rus/playlist.m3u8
@@ -74,14 +71,14 @@ https://stream-msk-01.ott.tricolor.tv/dtv/id702_MSKSG-PVR-1--Amedia_hit/04/plst.
 https://stream-msk-13.ott.tricolor.tv/dtv/id705_MSKSG-PVR-1--Amedia_premium/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MDY2NDIxMiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUwMDU5NDEyLCJzZXNzaW9uX2lkIjoiOWIwM2JkZWZiMWFlZGZkNDlkMDg1YTczZmMyZjI2OTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.oup_-26s2K6Q23A1OngOwOjVSN8ZbN3WoTqgrD7glf8
 
 #EXTINF:-1 group-title="Кино и сериалы", .black
-http://api.peers.tv/timeshift/sony_turbo/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAyMjk4MzQsImlhdCI6MTc1MDE0MzQzNCwiY2lkIjo2LCJ1aWQiOjkyNDMyMTQzNiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.lPIbZehBKtwgL2FH7Nlnh1FAdp0rAYHI2wpolfWwMK4&offset=10
+https://s.ontivi.net/dirxpUrk01YEUPFLdRDCww/577/1750261806/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", .red
 http://178.124.152.238:8088/sony
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", .sci-fi
-http://178.124.179.122:8088/Sci-Fi/index.m3u8
- 
+http://mfe01.cliptv.az/hls/Sony_Sci_Fi_SDifz36n.ism/playlist.m3u8
+
 #EXTINF:-1 tvg-id="start-air" group-title="Кино и сериалы", Start Air HD
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Start_Air.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MDY2NDIxMiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUwMDU5NDEyLCJzZXNzaW9uX2lkIjoiOWIwM2JkZWZiMWFlZGZkNDlkMDg1YTczZmMyZjI2OTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.oup_-26s2K6Q23A1OngOwOjVSN8ZbN3WoTqgrD7glf8
 
