@@ -143,13 +143,13 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Lubimoe_HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kino_TV_HD
 
 #EXTINF:-1 group-title="Кино и сериалы", Кинопремьера HD
-http://178.124.179.122:8088/Kinopremiera/index.m3u8
+https://mhd116.iptv2022.com/p/Mlyv6DsdcqS0JjxXdVMk4A,1750359991/streaming/film-premiere/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", КиноХит
 http://178.212.71.253:8000/play/123/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Киносемья
-http://178.212.71.253:8000/play/127/index.m3u8
+https://mhd116.iptv2022.com/p/0SJhwfk6sqnNhMv-0Y8RBA,1750359991/streaming/film-families/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс
 http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
