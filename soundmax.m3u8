@@ -289,8 +289,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:-0 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские", Карусель +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 
-#EXTINF:-0 group-title="Детские", Солнце
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Disney
+#EXTINF:-1 group-title="Детские" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Солнце
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 
 #EXTINF:-0 group-title="Детские", Солнце +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
@@ -302,7 +302,7 @@ http://stv.mediacdn.ru/live/cdn/mult/playlist_sdhigh.m3u8
 http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
 
 #EXTINF:-0 group-title="Детские", Ani
-http://31.210.208.171:8080/ani/index.m3u8?token=+W2MSER
+http://178.212.71.253:8000/play/74/index.m3u8
 
 #EXTINF:-0 tvg-id="Multilandia.ru@SD" tvg-logo="https://i.imgur.com/ccwijY0.png" group-title="Детские", Мультиландия
 http://178.217.72.66:8080/multilandiya/index.m3u8
@@ -313,7 +313,7 @@ http://178.217.72.66:8080/O/index.m3u8
 #EXTINF:-0 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские", В гостях у сказки
 http://178.217.72.66:8080/Black/index.m3u8
 
-#EXTINF:-0 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские" ,Уникум
+#EXTINF:-0 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские", Уникум
 http://arbiter.bolshoe.tv/?path=streaming/forkids/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDI1IDc6MDk6MzAgQU0maGFzaF92YWx1ZT1zNXlBSm93bXU2RjNaa2ZWbjk0K1RnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-0 group-title="Детские", Мама
@@ -323,10 +323,10 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mama
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
 
 #EXTINF:-0 tvg-id="da-vinci" group-title="Детские", Да Винчи
-http://178.217.72.66:8080/Da_Vinchi/index.m3u8
+http://api.peers.tv/timeshift/da_vinci/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA0MDMzNjksImlhdCI6MTc1MDMxNjk2OSwiY2lkIjo2LCJ1aWQiOjkyNDc0NTQ1OCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.NAVdkzK-x62tKqtYLB9GxA9lwMXsJxtuOjlsKELfSHM&offset=10
 
 #EXTINF:-0 group-title="Детские", СТС Kids
-http://178.212.71.253:8000/play/112/index.m3u8
+https://mhd116.iptv2022.com/p/Zt-XdBsxbWVAKeG1VrFutg,1750359991/streaming/stskids/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-0 group-title"Детские", Cartoon Network
 https://server.musical.uz/tv/cartonnet_web/index.m3u8?token=f33a40b8585733663f3073cb8509ce15ee14e5c2-f2f38332b00dd640ec5d297bc0ee6687-1750355494-1750344694&remote=185.169.103.116
@@ -355,9 +355,6 @@ https://bl.rutube.ru/livestream/66710e44c6f796f0b754794ca2585229/index.m3u8?s=ct
 #EXTINF:-0 group-title"Детские", Смайл
 https://mhd116.iptv2022.com/p/OiZh7D43vuIrjsl3G82jEw,1750359991/streaming/smile/324/1/index.m3u8
 
-#EXTINF:-0 group-title="Детские", Cartoon Classics
-http://31.130.19.207:4022/udp/239.1.10.21:1234
-
 #EXTINF:-0 group-title="Детские", Детский мир
 http://178.124.193.53:8181/play/1437/index.m3u8
 
@@ -369,45 +366,6 @@ http://178.124.179.122:8088/Malish/index.m3u8
 
 #EXTINF:-0 group-title="Детские", Капитан Фантастика HD
 http://cdn.admuspeh.my/8321/video.m3u8?token=NVbvJ28N26iEqQiP
-
-#EXTINF:-1 group-title="Детские", Kernel TV Губка Боб Квадратные Штаны HD
-http://cdn.admuspeh.my/9057/video.m3u8?token=NVbvJ28N26iEqQiP
-
-#EXTINF:-1 group-title="Детские", Kernel TV Гравити Фолз HD
-http://cdn.admuspeh.my/9056/video.m3u8?token=NVbvJ28N26iEqQiP
-
-#EXTINF:-1 group-title="Детские", Kernel TV Щенячий патруль HD
-http://cdn.admuspeh.my/9096/video.m3u8?token=NVbvJ28N26iEqQiP
-
-#EXTINF:-1 group-title="Детские", Kernel TV Барбоскины HD
-http://cdn.admuspeh.my/9049/video.m3u8?token=NVbvJ28N26iEqQiP
-
-#EXTINF:-1 group-title="Детские", Смешарики Триколор
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_11
-
-#EXTINF:-1 group-title="Детские", Kernel TV Смешарики HD
-http://cdn.admuspeh.my/9081/video.m3u8?token=NVbvJ28N26iEqQiP
-
-#EXTINF:-1 group-title="Детские", Kernel TV Маша и Медведь HD
-http://cdn.admuspeh.my/9072/video.m3u8?token=NVbvJ28N26iEqQiP
-
-#EXTINF:-1 group-title="Детские", Kernel TV Лунтик и его друзья HD
-http://cdn.admuspeh.my/9068/video.m3u8?token=NVbvJ28N26iEqQiP
-
-#EXTINF:-1 group-title="Детские", Kernel TV Ми-ми-мишки HD
-http://cdn.admuspeh.my/9074/video.m3u8?token=NVbvJ28N26iEqQiP
-
-#EXTINF:-1 group-title="Детские", Kernel TV Тимон и Пумба HD
-http://cdn.admuspeh.my/9085/video.m3u8?token=NVbvJ28N26iEqQiP
-
-#EXTINF:-1 group-title="Детские", Kernel TV Финес и Ферб HD
-http://cdn.admuspeh.my/9089/video.m3u8?token=NVbvJ28N26iEqQiP
-
-#EXTINF:-1 group-title="Детские", Kernel TV Леди Баг и супер Кот HD
-http://cdn.admuspeh.my/9066/video.m3u8?token=NVbvJ28N26iEqQiP
-
-#EXTINF:-1 tvg-id="zhara" tvg-logo="https://dvb.by/sources/logos/1092s.png" group-title="Музыкальные", Жара
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zhara
 
 #EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://tandemtools.ru/upload/material/untitled folder/untitled folder/Безымянный1.png" group-title="Музыкальные", Новое Радио
 http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
