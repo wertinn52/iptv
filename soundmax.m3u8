@@ -73,17 +73,14 @@ https://stream-msk-01.ott.tricolor.tv/dtv/id702_MSKSG-PVR-1--Amedia_hit/04/plst.
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Premium HD
 https://stream-msk-13.ott.tricolor.tv/dtv/id705_MSKSG-PVR-1--Amedia_premium/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MDY2NDIxMiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUwMDU5NDEyLCJzZXNzaW9uX2lkIjoiOWIwM2JkZWZiMWFlZGZkNDlkMDg1YTczZmMyZjI2OTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.oup_-26s2K6Q23A1OngOwOjVSN8ZbN3WoTqgrD7glf8
 
-#EXTINF:-1 group-title="Кино и сериалы", .black
-https://s.ontivi.net/9NURgdXNVRZfmOyahUn5mA/577/1750356201/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", .red
+https://server2.musical.uz/red_web/tracks-v1a1/mono.m3u8?remote=185.169.103.116&token=ff94924cc7187ef0981a9ecce3ded99048875275-a5ee76208a8daac1fcd9536f2501a99f-1750355322-1750344522
 
-#EXTINF:-1 group-title="Кино и сериалы", .black test
+#EXTINF:-1 group-title="Кино и сериалы", .black
 https://server3.musical.uz/black_web/tracks-v1a1/mono.m3u8?remote=185.169.103.116&token=61972928cc9f75c1674c0a43118544862fe43609-d1a15915047a81c43796e48ebbdc04b6-1750355127-1750344327
 
-#EXTINF:-1 group-title="Кино и сериалы", .red
-http://178.124.152.238:8088/sony
-
 #EXTINF:-1 group-title="Кино и сериалы", .sci-fi
-http://178.124.179.122:8088/Sci-Fi/index.m3u8
+https://server2.musical.uz/scifi_web/index.m3u8?token=8edfbec25b3f3c8772090a4b0d3ae0e7510e016f-a8e4b99fb211bedaa38c974211dee367-1750355359-1750344559&remote=185.169.103.116
 
 #EXTINF:-1 tvg-id="start-air" group-title="Кино и сериалы", Start Air HD
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Start_Air.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MDY2NDIxMiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUwMDU5NDEyLCJzZXNzaW9uX2lkIjoiOWIwM2JkZWZiMWFlZGZkNDlkMDg1YTczZmMyZjI2OTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.oup_-26s2K6Q23A1OngOwOjVSN8ZbN3WoTqgrD7glf8
@@ -317,7 +314,7 @@ http://178.217.72.66:8080/O/index.m3u8
 http://178.217.72.66:8080/Black/index.m3u8
 
 #EXTINF:-0 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские" ,Уникум
-http://178.124.193.53:8181/play/1201/index.m3u8
+http://arbiter.bolshoe.tv/?path=streaming/forkids/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDI1IDc6MDk6MzAgQU0maGFzaF92YWx1ZT1zNXlBSm93bXU2RjNaa2ZWbjk0K1RnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-0 group-title="Детские", Мама
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mama
@@ -332,7 +329,7 @@ http://178.217.72.66:8080/Da_Vinchi/index.m3u8
 http://178.212.71.253:8000/play/112/index.m3u8
 
 #EXTINF:-0 group-title"Детские", Cartoon Network
-http://cdn.admuspeh.my/8064/video.m3u8?token=NVbvJ28N26iEqQiP
+https://server.musical.uz/tv/cartonnet_web/index.m3u8?token=f33a40b8585733663f3073cb8509ce15ee14e5c2-f2f38332b00dd640ec5d297bc0ee6687-1750355494-1750344694&remote=185.169.103.116
 
 #EXTINF:-0 group-title"Детские", Cartoonito
 http://cdn.admuspeh.my/8332/video.m3u8?token=NVbvJ28N26iEqQiP
@@ -341,7 +338,10 @@ http://cdn.admuspeh.my/8332/video.m3u8?token=NVbvJ28N26iEqQiP
 http://133ac368.ucomist.net/iptv/GXEBH8LM3R4AC9/18064/index.m3u
 
 #EXTINF:-0 group-title"Детские", Nickelodeon
-http://cdn.admuspeh.my/8055/video.m3u8?token=NVbvJ28N26iEqQiP
+https://server2.musical.uz/nick_web/tracks-v1a1/mono.m3u8?remote=185.169.103.116&token=86087c7232e83e41ce9c1cdf07ba91ae42b3e299-b05b282556e414d08e0a8fbdf51301e0-1750355437-1750344637
+
+#EXTINF:-0 group-title"Детские", Nick JR
+https://server3.musical.uz/nick-jr_web/tracks-v1a1/mono.m3u8?remote=185.169.103.116&token=051fe8e5fadd44cfbf415f6885d901f551c3bd2b-e8ba3462fd511a961690284458b31c4a-1750355528-1750344728
 
 #EXTINF:-0 tvg-id="kidstv" group-title="Детские", Kids TV HD
 https://origin5.mediacdn.ru/live/kidstv/tracks-v1a1/mono.ts.m3u8
