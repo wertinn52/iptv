@@ -43,20 +43,23 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="http://only4.tv/ch/1313.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ЦТВ", Муз ТВ +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы", КИНЕКО
+#EXTINF:-1 group-title="Кино и сериалы", Феникс+Кино
+http://arbiter.bolshoe.tv/?path=streaming/fenixkino/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDI1IDc6MDk6MzAgQU0maGFzaF92YWx1ZT1zNXlBSm93bXU2RjNaa2ZWbjk0K1RnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+
+#EXTINF:-1 group-title="Кино и сериалы", Кинеко
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kineko_HD
 
-#EXTINF:-1 tvg-id="sapfir" group-title="Кино и сериалы", Сапфир HD
+#EXTINF:-1 tvg-id="sapfir" group-title="Кино и сериалы", Сапфир 
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sapphire_HD
 
 #EXTINF:-1 tvg-id="tv1000" group-title="Кино и сериалы", viju TV1000
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=N2Dc3_4qYjLLejkZLZMgXA&e=1751139610&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Кино и сериалы", viju TV1000 Русское HD
-http://194.143.148.28:8080/TV1000RuKino/mpegts
+http://213.91.178.133:8000/play/a0bx
 
 #EXTINF:-1 tvg-id="tv1000-action" group-title="Кино и сериалы", viju TV1000 Action
-http://178.124.193.53:8181/play/1046/index.m3u8
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=TxXAXzEOq-uVyD5gRBGCFg&e=1751139577&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 tvg-id="amedia1" group-title="Кино и сериалы", Amedia 1
 http://sc.id-tv.kz/A1.m3u8
@@ -72,6 +75,9 @@ https://stream-msk-13.ott.tricolor.tv/dtv/id705_MSKSG-PVR-1--Amedia_premium/04/p
 
 #EXTINF:-1 group-title="Кино и сериалы", .black
 https://s.ontivi.net/9NURgdXNVRZfmOyahUn5mA/577/1750356201/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы", .black test
+https://server3.musical.uz/black_web/tracks-v1a1/mono.m3u8?remote=185.169.103.116&token=61972928cc9f75c1674c0a43118544862fe43609-d1a15915047a81c43796e48ebbdc04b6-1750355127-1750344327
 
 #EXTINF:-1 group-title="Кино и сериалы", .red
 http://178.124.152.238:8088/sony
@@ -190,8 +196,8 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ruskiy_roman_HD
 #EXTINF:-1 group-title="Кино и сериалы", Русский иллюзион
 https://mhd116.iptv2022.com/p/2xDHaSl4BfssIIktHyyt-w,1750359991/streaming/rusilluzion/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-0 group-title="Кинозалы 2", СВАТЫ HD
-http://cdn.admuspeh.my/8821/video.m3u8?token=NVbvJ28N26iEqQi
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://m3u.admuspeh.my/icon/cineman-svaty.png" tvg-id="CineMan Сваты FHD", Сваты
+http://cdn.admuspeh.my/8825/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-0 group-title="Кинозалы 2", СВАТЫ HD 2
 http://cdn.admuspeh.my/9080/video.m3u8?token=NVbvJ28N26iEqQiP
@@ -336,9 +342,6 @@ http://133ac368.ucomist.net/iptv/GXEBH8LM3R4AC9/18064/index.m3u
 
 #EXTINF:-0 group-title"Детские", Nickelodeon
 http://cdn.admuspeh.my/8055/video.m3u8?token=NVbvJ28N26iEqQiP
-
-#EXTINF:-1 group-title="Детские", Nickelodeon HD TEST
-https://livetv.mylifeisgood.net.ru/channels/nickelodeon-hd.m3u8
 
 #EXTINF:-0 tvg-id="kidstv" group-title="Детские", Kids TV HD
 https://origin5.mediacdn.ru/live/kidstv/tracks-v1a1/mono.ts.m3u8
