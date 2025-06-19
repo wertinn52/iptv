@@ -143,22 +143,22 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Lubimoe_HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kino_TV_HD
 
 #EXTINF:-1 group-title="Кино и сериалы", Кинопремьера HD
-https://mhd116.iptv2022.com/p/Mlyv6DsdcqS0JjxXdVMk4A,1750359991/streaming/film-premiere/324/1/tracks-v5a1/mono.m3u8
+http://c6bd3474.rossteleccom.net/iptv/WLCDAMB56R7DMS/9020/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", КиноХит
-http://178.212.71.253:8000/play/123/index.m3u8
+http://c6bd3474.rossteleccom.net/iptv/WLCDAMB56R7DMS/9128/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Киносемья
-https://mhd116.iptv2022.com/p/0SJhwfk6sqnNhMv-0Y8RBA,1750359991/streaming/film-families/324/1/tracks-v5a1/mono.m3u8
+http://c6bd3474.rossteleccom.net/iptv/WLCDAMB56R7DMS/125/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс
-http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
+http://c6bd3474.rossteleccom.net/iptv/WLCDAMB56R7DMS/509/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Киносерия
-http://31.210.208.171:8080/kinoseriya/index.m3u8?token=+W2MSER
+http://c6bd3474.rossteleccom.net/iptv/WLCDAMB56R7DMS/148/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Наше новое кино
-http://31.210.208.171:8080/nashe_novoe_kino/index.m3u8?token=+W2MSER
+http://c6bd3474.rossteleccom.net/iptv/WLCDAMB56R7DMS/517/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Родное кино
 http://178.212.71.253:8000/play/136/index.m3u8
@@ -188,7 +188,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Rus_Bests
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ruskiy_roman_HD
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Русский иллюзион
-http://178.212.71.253:8000/play/49/index.m3u8
+http://c6bd3474.rossteleccom.net/iptv/WLCDAMB56R7DMS/547/index.m3u8
 
 #EXTINF:-0 group-title="Кинозалы 2", СВАТЫ HD
 http://cdn.admuspeh.my/8821/video.m3u8?token=NVbvJ28N26iEqQi
