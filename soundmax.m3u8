@@ -319,14 +319,14 @@ http://31.148.48.15/Detskiy/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-0 group-title="Детские", Мама
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mama
 
-#EXTINF:-0 group-title="Детские" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", 2x2 +2
+#EXTINF:-0 group-title="Детские" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", 2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
 
 #EXTINF:-0 tvg-id="da-vinci" group-title="Детские", Да Винчи
 http://178.217.72.66:8080/Da_Vinchi/index.m3u8
 
 #EXTINF:-0 group-title="Детские", СТС Kids
-http://195.26.83.96:7006/play/a00z/37862552.m3u8
+http://213.91.178.133:8000/play/a07g
 
 #EXTINF:-0 group-title"Детские", Cartoon Network
 https://tv.tvcdnpotok.com/bA0ilHqcA7FLAixY28mLeA/2042/1750429039/index.m3u8
@@ -346,22 +346,17 @@ https://s.ontivi.net/mtcTsvI3r0KN11eEkOYb4A/210/1750428029/index.m3u8
 #EXTINF:-0 group-title="Детские", Вселенная мультфильмов
 https://salam-mskth-5.rutube.ru/dive/river-3-313.rutube.ru/_eyidKlA6DIchTCuVaccKA/stream/genetta-524.ost.rutube.ru/drx0l2clOGJZUH5SYsEOYA/1750508505/66710e44c6f796f0b754794ca2585229/720p_stream.m3u8
 
-#EXTINF:-0 group-title="Детские", Детский мир
-http://178.124.152.238:8088/detmir
+#EXTINF:-1 tvg-logo="http://i124.fastpic.org/big/2025/0304/fa/9c62112b7d4c9e0397102f24c70a92fa.png" tvg-id="zal-11-tricolor" group-title="Детские", Смешарики
+https://stream-msk-16.ott.tricolor.tv/dtv/id976_MSKSG-PVR-1--Kinozal_11/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MDY2NDIxMiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUwMDU5NDEyLCJzZXNzaW9uX2lkIjoiOWIwM2JkZWZiMWFlZGZkNDlkMDg1YTczZmMyZjI2OTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.oup_-26s2K6Q23A1OngOwOjVSN8ZbN3WoTqgrD7glf8
 
-#EXTINF:-0 group-title="Детские", TiJi
-http://195.245.99.242/Tiji/playlist.m3u8
-
-#EXTINF:-0 group-title="Детские", СуперГерои
-http://178.124.179.122:8088/Malish/index.m3u8
-
-#EXTINF:-0 group-title="Детские", Капитан Фантастика HD
-http://cdn.admuspeh.my/8321/video.m3u8?token=NVbvJ28N26iEqQiP
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_smeshariki.png" tvg-id="Kernel TV Смешарики HD", Kernel TV Смешарики HD
+#EXTGRP:Детские
+http://cdn.admuspeh.my/9081/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://tandemtools.ru/upload/material/untitled folder/untitled folder/Безымянный1.png" group-title="Музыкальные", Новое Радио
 http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Музыкальные",Europa Plus TV
+#EXTINF:-1 group-title="Музыкальные", Europa Plus TV
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eur_Plus
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Музыкальные", RU.TV
@@ -376,13 +371,13 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Muz_Perv
 #EXTINF:-1 group-title="Музыкальные",Первый музыкальный
 http://hz1.teleport.cc/HLS/SD.m3u8
 
-#EXTINF:-1 tvg-id="russian-musicbox" group-title="Музыкальные",Russian MusicBox HD
+#EXTINF:-1 tvg-id="russian-musicbox" group-title="Музыкальные", Russian MusicBox HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Russian_Musicbox_HD
 
-#EXTINF:-1 tvg-id="musicbox" group-title="Музыкальные",Russian Musicbox Gold
+#EXTINF:-1 tvg-id="musicbox" group-title="Музыкальные", Russian Musicbox Gold
 https://stream-msk-10.ott.tricolor.tv/dtv/id901_MSKSG-PVR-1--Music_Box_GOLD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MDA1NTMwNSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzQ5NDUwNTA1LCJzZXNzaW9uX2lkIjoiZDFlMTUwNzUzMWMwYWY1OGQzNzAwYmVhZTMwZGJmZjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ZWAEF-fXv0YunZk6JkToUviBig_V7uMlP0KoioZIQfA
 
-#EXTINF:-1 tvg-id="tnt-music" group-title="Музыкальные",ТНТ Music HD
+#EXTINF:-1 tvg-id="tnt-music" group-title="Музыкальные", ТНТ Music HD
 http://178.212.71.253:8000/play/137/index.m3u8
 
 #EXTINF:-1 tvg-id="bridge-tv" group-title="Музыкальные", Bridge TV
