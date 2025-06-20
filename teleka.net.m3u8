@@ -299,13 +299,13 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
 
 #EXTINF:-0 group-title="Детские", Мульт
-http://arbiter.bolshoe.tv/?path=abr4/mult/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMC8yMDI1IDY6NTg6MDUgQU0maGFzaF92YWx1ZT1nYmhIaEtBM3NIem9MWHZwNU5pcCt3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
 
 #EXTINF:-0 group-title="Детские", Мульт HD
 http://31.210.208.171:8080/mult/index.m3u8?token=+W2MSER
 
 #EXTINF:-0 group-title="Детские", Ani
-http://31.210.208.171:8080/ani/index.m3u8?token=+W2MSER
+http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
 
 #EXTINF:-0 tvg-id="Multilandia.ru@SD" tvg-logo="https://i.imgur.com/ccwijY0.png" group-title="Детские", Мультиландия
 http://178.217.72.66:8080/multilandiya/index.m3u8
@@ -332,7 +332,7 @@ http://178.217.72.66:8080/Da_Vinchi/index.m3u8
 http://213.91.178.133:8000/play/a07g
 
 #EXTINF:-0 group-title"Детские", Cartoon Network
-https://tv.tvcdnpotok.com/bA0ilHqcA7FLAixY28mLeA/2042/1750429039/index.m3u8
+https://tv.tvcdnpotok.com/0JR9Q--ZyfkvKFpmb3QVxA/2042/1750448584/index.m3u8
 
 #EXTINF:-0 group-title"Детские", Cartoonito
 https://tv.tvcdnpotok.com/6kU0U2NJRhP2RiRZgX2OmA/2043/1750429002/index.m3u8
@@ -341,7 +341,7 @@ https://tv.tvcdnpotok.com/6kU0U2NJRhP2RiRZgX2OmA/2043/1750429002/index.m3u8
 http://133ac368.ucomist.net/iptv/GXEBH8LM3R4AC9/18064/index.m3u8
 
 #EXTINF:-0 group-title"Детские", Nickelodeon
-https://s.ontivi.net/iHEnLELmH0sdRGS22qoIdg/155/1750428781/index.m3u8
+http://178.134.1.158:8081/nickelodeon/index.m3u8
 
 #EXTINF:-0 group-title"Детские", Nick JR
 https://s.ontivi.net/mtcTsvI3r0KN11eEkOYb4A/210/1750428029/index.m3u8
