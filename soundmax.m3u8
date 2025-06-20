@@ -299,7 +299,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
 
 #EXTINF:-0 group-title="Детские", Мульт
-http://178.212.71.253:8000/play/47/index.m3u8
+http://178.124.193.53:8181/play/1221/index.m3u8
 
 #EXTINF:-0 group-title="Детские", Мульт HD
 http://31.210.208.171:8080/mult/index.m3u8?token=+W2MSER
