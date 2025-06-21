@@ -155,19 +155,19 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kino_TV_HD
 http://tvip.btk.teleos.ru:8081/chid518/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", КиноХит
-http://api.peers.tv/timeshift/kinohit/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA0ODkwODMsImlhdCI6MTc1MDQwMjY4MywiY2lkIjo2LCJ1aWQiOjkyNDkyODAyNywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.shg3LKiQ49VhEJXqkOb1lAn-Qg96SHSI_ULwRkIj538&offset=10
+http://api.peers.tv/timeshift/kinohit/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA1NzU0NTIsImlhdCI6MTc1MDQ4OTA1MiwiY2lkIjo2LCJ1aWQiOjkyNTEyMjUyOSwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.ie2i5Gi-dUj4cFCBTuvpuYNlkQZOo2-SicKrL0zFYN0&offset=10
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Киносемья
 http://tvip.btk.teleos.ru:8081/chid517/tracks-v1a1/mono.m3u
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Киномикс
-http://api.peers.tv/timeshift/ntv_kino_plyus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA0ODkwODMsImlhdCI6MTc1MDQwMjY4MywiY2lkIjo2LCJ1aWQiOjkyNDkyODAyNywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.shg3LKiQ49VhEJXqkOb1lAn-Qg96SHSI_ULwRkIj538&offset=10
+http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Киносерия
-http://api.peers.tv/timeshift/kinoseriya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA0ODkwODMsImlhdCI6MTc1MDQwMjY4MywiY2lkIjo2LCJ1aWQiOjkyNDkyODAyNywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.shg3LKiQ49VhEJXqkOb1lAn-Qg96SHSI_ULwRkIj538&offset=10
+http://31.210.208.171:8080/kinoseriya/index.m3u8?token=+W2MSER
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Наше новое кино
-http://31.210.208.171:8080/nashe_novoe_kino/index.m3u8?token=+W2MSER
+http://31.210.208.171:8080/nashe_novoe_kino/index.m3u8?token=+W2MSERR
 
 #EXTINF:-1 group-title="Кино и сериалы", Родное кино
 http://178.212.71.253:8000/play/136/index.m3u8
