@@ -11,7 +11,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 
 #EXTINF:-1 group-title="ЦТВ", Россия 1 HD +2 
-https://live-mirror-06.ott.tricolor.tv/live/live/Rossia_1_0_hd/_shared_9f19c0d666a9d69f8f4e29c8313bfa09/Rossia_1_0_hd-mp4a_59200_rus=20000-begin=3304366060302220-dur=40106664-seq=82609152.ts
+https://edge01d.mediavitrina.ru/dashp-livef1/russia1_2/tracks-v1/init.m4v
 
 #EXTINF:-1 group-title="ЦТВ", Матч ТВ
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=match
