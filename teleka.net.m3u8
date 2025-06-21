@@ -93,7 +93,7 @@ https://nsk19.peers.tv/streaming/sony_turbo/16/tvrecw/playlist.m3u8?token=eyJhbG
 #EXTINF:-1 group-title="Кино и сериалы", .sci-fi
 http://178.124.179.122:8088/Sci-Fi/index.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Dizi Channel
+#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/12040/logo_256_1655390551.png" tvg-id="timeless-dizi" group-title="Кино и сериалы", Dizi Channel
 http://api.peers.tv/timeshift/timeless_dizi_channel/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA1NzU0NTIsImlhdCI6MTc1MDQ4OTA1MiwiY2lkIjo2LCJ1aWQiOjkyNTEyMjUyOSwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.ie2i5Gi-dUj4cFCBTuvpuYNlkQZOo2-SicKrL0zFYN0&offset=10
 
 #EXTINF:-1 tvg-id="start-air" group-title="Кино и сериалы", Start Air HD
