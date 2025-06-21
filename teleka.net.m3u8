@@ -324,17 +324,17 @@ http://31.210.208.171:8080/mult/index.m3u8?token=+W2MSER
 #EXTINF:-0 group-title="Детские", Ani
 http://api.peers.tv/timeshift/ani/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA1NzU0NTIsImlhdCI6MTc1MDQ4OTA1MiwiY2lkIjo2LCJ1aWQiOjkyNTEyMjUyOSwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.ie2i5Gi-dUj4cFCBTuvpuYNlkQZOo2-SicKrL0zFYN0&offset=10
 
-#EXTINF:-0 tvg-id="Multilandia.ru@SD" tvg-logo="https://i.imgur.com/ccwijY0.png" group-title="Детские", Мультиландия
-https://nsk19.peers.tv/streaming/multilandiya/16/h1080/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA1OTI1OTksImlhdCI6MTc1MDUwNjE5OSwiY2lkIjo4MSwidWlkIjo5MjUxNjYwMjcsInJlZyI6ZmFsc2UsImlwIjozMTE0ODg3MDI4fQ.QH1LuM0EE-JGhKGPBQsT1hz4g_Xuh_etBfJ4Y9w1hWk&client=81
+#EXTINF:-0 group-title="Детские", Мультиландия
+http://178.217.72.66:8080/multilandiya/index.m3u8
 
 #EXTINF:-0 group-title="Детские", О!
-https://nsk19.peers.tv/streaming/o/16/copy/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA1OTI1OTksImlhdCI6MTc1MDUwNjE5OSwiY2lkIjo4MSwidWlkIjo5MjUxNjYwMjcsInJlZyI6ZmFsc2UsImlwIjozMTE0ODg3MDI4fQ.QH1LuM0EE-JGhKGPBQsT1hz4g_Xuh_etBfJ4Y9w1hWk&client=81
+http://178.124.193.53:8181/play/1139/index.m3u8
 
 #EXTINF:-0 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские", В гостях у сказки
 http://178.217.72.66:8080/Black/index.m3u8
 
 #EXTINF:-0 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские", Уникум
-https://nsk19.peers.tv/streaming/forkids/16/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA1OTI1OTksImlhdCI6MTc1MDUwNjE5OSwiY2lkIjo4MSwidWlkIjo5MjUxNjYwMjcsInJlZyI6ZmFsc2UsImlwIjozMTE0ODg3MDI4fQ.QH1LuM0EE-JGhKGPBQsT1hz4g_Xuh_etBfJ4Y9w1hWk&client=81
+http://178.124.193.53:8181/play/1201/index.m3u8
 
 #EXTINF:-0 group-title="Детские", Мама
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mama
@@ -348,20 +348,26 @@ http://178.217.72.66:8080/Da_Vinchi/index.m3u8
 #EXTINF:-0 group-title="Детские", СТС Kids
 http://213.91.178.133:8000/play/a07g
 
+#EXTINF:-0 group-title="Детские", Gulli Girl
+https://nsk19.peers.tv/streaming/gulli_girl/16/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA1OTI1OTksImlhdCI6MTc1MDUwNjE5OSwiY2lkIjo4MSwidWlkIjo5MjUxNjYwMjcsInJlZyI6ZmFsc2UsImlwIjozMTE0ODg3MDI4fQ.QH1LuM0EE-JGhKGPBQsT1hz4g_Xuh_etBfJ4Y9w1hWk&client=81
+
 #EXTINF:-0 group-title"Детские", Cartoon Network
-https://tv.tvcdnpotok.com/0JR9Q--ZyfkvKFpmb3QVxA/2042/1750448584/index.m3u8
+https://tv.tvcdnpotok.com/Q6455D7WrHE6U0KrKjqxkw/2042/1750557114/index.m3u8
 
 #EXTINF:-0 group-title"Детские", Cartoonito
-https://tv.tvcdnpotok.com/6kU0U2NJRhP2RiRZgX2OmA/2043/1750429002/index.m3u8
+https://tv.tvcdnpotok.com/Rt4aqCsC9riVWa2Zw8sqhw/2043/1750557242/index.m3u8
 
 #EXTINF:-0 group-title"Детские", Magic Disney TOKEN
 http://133ac368.ucomist.net/iptv/GXEBH8LM3R4AC9/18064/index.m3u8
 
 #EXTINF:-0 group-title"Детские", Nickelodeon
-http://178.134.1.158:8081/nickelodeon/index.m3u8
+https://s.ontivi.net/BvERRe-zts3yAcLLK3HtYg/155/1750556599/index.m3u8
 
 #EXTINF:-0 group-title"Детские", Nick JR
-https://s.ontivi.net/mtcTsvI3r0KN11eEkOYb4A/210/1750428029/index.m3u8
+https://s.ontivi.net/Ma97tolrvjdSUlQHxwiSDg/210/1750556630/index.m3u8
+
+EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские", Киносемья
+http://tvip.btk.teleos.ru:8081/chid517/tracks-v1a1/mono.m3u
 
 #EXTINF:-0 group-title="Детские", Вселенная мультфильмов
 https://salam-mskth-5.rutube.ru/dive/river-3-313.rutube.ru/_eyidKlA6DIchTCuVaccKA/stream/genetta-524.ost.rutube.ru/drx0l2clOGJZUH5SYsEOYA/1750508505/66710e44c6f796f0b754794ca2585229/720p_stream.m3u8
