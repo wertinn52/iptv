@@ -11,7 +11,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 
 #EXTINF:-1 group-title="ЦТВ", Россия 1 HD +2 
-https://edge01d.mediavitrina.ru/dashp-livef1/russia1_2/tracks-v1/init.m4v
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
 
 #EXTINF:-1 group-title="ЦТВ", Матч ТВ
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=match
