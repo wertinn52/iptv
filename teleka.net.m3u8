@@ -80,13 +80,13 @@ https://stream-msk-01.ott.tricolor.tv/dtv/id702_MSKSG-PVR-1--Amedia_hit/04/plst.
 https://stream-msk-13.ott.tricolor.tv/dtv/id705_MSKSG-PVR-1--Amedia_premium/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MDY2NDIxMiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUwMDU5NDEyLCJzZXNzaW9uX2lkIjoiOWIwM2JkZWZiMWFlZGZkNDlkMDg1YTczZmMyZjI2OTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.oup_-26s2K6Q23A1OngOwOjVSN8ZbN3WoTqgrD7glf8
 
 #EXTINF:-1 group-title="Кино и сериалы", .red
-http://178.124.152.238:8088/sony
+https://nsk19.peers.tv/streaming/set/16/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA1OTI1OTksImlhdCI6MTc1MDUwNjE5OSwiY2lkIjo4MSwidWlkIjo5MjUxNjYwMjcsInJlZyI6ZmFsc2UsImlwIjozMTE0ODg3MDI4fQ.QH1LuM0EE-JGhKGPBQsT1hz4g_Xuh_etBfJ4Y9w1hWk&client=81
 
 #EXTINF:-1 group-title="Кино и сериалы", .black
-https://s.ontivi.net/jeUY2EE_tPCRl5Cvxnz-QQ/577/1750424638/index.m3u8
+https://hls.peers.tv/streaming/sony_turbo/16/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA1OTI1OTksImlhdCI6MTc1MDUwNjE5OSwiY2lkIjo4MSwidWlkIjo5MjUxNjYwMjcsInJlZyI6ZmFsc2UsImlwIjozMTE0ODg3MDI4fQ.QH1LuM0EE-JGhKGPBQsT1hz4g_Xuh_etBfJ4Y9w1hWk&client=81
 
 #EXTINF:-1 group-title="Кино и сериалы", .sci-fi
-http://178.124.179.122:8088/Sci-Fi/index.m3u8
+
 
 #EXTINF:-1 tvg-id="start-air" group-title="Кино и сериалы", Start Air HD
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Start_Air.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MDY2NDIxMiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUwMDU5NDEyLCJzZXNzaW9uX2lkIjoiOWIwM2JkZWZiMWFlZGZkNDlkMDg1YTczZmMyZjI2OTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.oup_-26s2K6Q23A1OngOwOjVSN8ZbN3WoTqgrD7glf8
@@ -150,6 +150,9 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Lubimoe_HD
 
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kino_TV_HD
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", ТВ21
+https://nsk19.peers.tv/streaming/tv21/16/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA1OTI1OTksImlhdCI6MTc1MDUwNjE5OSwiY2lkIjo4MSwidWlkIjo5MjUxNjYwMjcsInJlZyI6ZmFsc2UsImlwIjozMTE0ODg3MDI4fQ.QH1LuM0EE-JGhKGPBQsT1hz4g_Xuh_etBfJ4Y9w1hWk&client=81
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Кинопремьера
 http://tvip.btk.teleos.ru:8081/chid518/tracks-v1a1/mono.m3u8
