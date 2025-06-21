@@ -10,6 +10,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ЦТВ", Россия 1 +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 
+#EXTINF:-1 group-title="ЦТВ", Россия 1 HD +2 
+https://live-mirror-01.ott.tricolor.tv/live/live/Rossia_1_0_hd/_shared_9f19c0d666a9d69f8f4e29c8313bfa09/Rossia_1_0_hd-mp4a_59200_rus=20000-begin=3304364700088888-dur=40106664-seq=82609118.ts
+
 #EXTINF:-1 group-title="ЦТВ", Матч ТВ
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=match
 
@@ -148,14 +151,14 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Lubimoe_HD
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kino_TV_HD
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Кинопремьера HD
-http://api.peers.tv/timeshift/premera/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA0ODkwODMsImlhdCI6MTc1MDQwMjY4MywiY2lkIjo2LCJ1aWQiOjkyNDkyODAyNywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.shg3LKiQ49VhEJXqkOb1lAn-Qg96SHSI_ULwRkIj538&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Кинопремьера
+http://tvip.btk.teleos.ru:8081/chid518/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", КиноХит
 http://api.peers.tv/timeshift/kinohit/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA0ODkwODMsImlhdCI6MTc1MDQwMjY4MywiY2lkIjo2LCJ1aWQiOjkyNDkyODAyNywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.shg3LKiQ49VhEJXqkOb1lAn-Qg96SHSI_ULwRkIj538&offset=10
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Киносемья
-http://api.peers.tv/timeshift/hd_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA0ODkwODMsImlhdCI6MTc1MDQwMjY4MywiY2lkIjo2LCJ1aWQiOjkyNDkyODAyNywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.shg3LKiQ49VhEJXqkOb1lAn-Qg96SHSI_ULwRkIj538&offset=10
+http://tvip.btk.teleos.ru:8081/chid517/tracks-v1a1/mono.m3u
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Киномикс
 http://api.peers.tv/timeshift/ntv_kino_plyus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA0ODkwODMsImlhdCI6MTc1MDQwMjY4MywiY2lkIjo2LCJ1aWQiOjkyNDkyODAyNywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.shg3LKiQ49VhEJXqkOb1lAn-Qg96SHSI_ULwRkIj538&offset=10
@@ -308,16 +311,16 @@ http://31.210.208.171:8080/mult/index.m3u8?token=+W2MSER
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
 
 #EXTINF:-0 tvg-id="Multilandia.ru@SD" tvg-logo="https://i.imgur.com/ccwijY0.png" group-title="Детские", Мультиландия
-http://178.217.72.66:8080/multilandiya/index.m3u8
+https://nsk19.peers.tv/streaming/multilandiya/16/h1080/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA1OTI1OTksImlhdCI6MTc1MDUwNjE5OSwiY2lkIjo4MSwidWlkIjo5MjUxNjYwMjcsInJlZyI6ZmFsc2UsImlwIjozMTE0ODg3MDI4fQ.QH1LuM0EE-JGhKGPBQsT1hz4g_Xuh_etBfJ4Y9w1hWk&client=81
 
 #EXTINF:-0 group-title="Детские", О!
-http://178.217.72.66:8080/O/index.m3u8
+https://nsk19.peers.tv/streaming/o/16/copy/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA1OTI1OTksImlhdCI6MTc1MDUwNjE5OSwiY2lkIjo4MSwidWlkIjo5MjUxNjYwMjcsInJlZyI6ZmFsc2UsImlwIjozMTE0ODg3MDI4fQ.QH1LuM0EE-JGhKGPBQsT1hz4g_Xuh_etBfJ4Y9w1hWk&client=81
 
 #EXTINF:-0 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские", В гостях у сказки
 http://178.217.72.66:8080/Black/index.m3u8
 
 #EXTINF:-0 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские", Уникум
-http://31.148.48.15/Detskiy/tracks-v1a1/mono.ts.m3u8
+https://nsk19.peers.tv/streaming/forkids/16/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA1OTI1OTksImlhdCI6MTc1MDUwNjE5OSwiY2lkIjo4MSwidWlkIjo5MjUxNjYwMjcsInJlZyI6ZmFsc2UsImlwIjozMTE0ODg3MDI4fQ.QH1LuM0EE-JGhKGPBQsT1hz4g_Xuh_etBfJ4Y9w1hWk&client=81
 
 #EXTINF:-0 group-title="Детские", Мама
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mama
