@@ -4,14 +4,14 @@
 #EXTINF:-1 group-title="ОБНОВЛЕНО",ОБНОВЛЕНО 20.06.2025
 https://dn720404.ca.archive.org/0/items/20070515-rick-roll-d-o-hg-5-sjyrha-0/20070515%20-%20RickRollD%20-%20oHg5SJYRHA0.ia.mp4
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ЦТВ",Первый канал +2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ЦТВ", Первый канал +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
 
 #EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ЦТВ", Россия 1 +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 
 #EXTINF:-1 group-title="ЦТВ", Россия 1 HD +2 
-https://live-mirror-01.ott.tricolor.tv/live/live/Rossia_1_0_hd/_shared_9f19c0d666a9d69f8f4e29c8313bfa09/Rossia_1_0_hd-mp4a_59200_rus=20000-begin=3304364700088888-dur=40106664-seq=82609118.ts
+https://live-mirror-06.ott.tricolor.tv/live/live/Rossia_1_0_hd/_shared_9f19c0d666a9d69f8f4e29c8313bfa09/Rossia_1_0_hd-mp4a_59200_rus=20000-begin=3304366060302220-dur=40106664-seq=82609152.ts
 
 #EXTINF:-1 group-title="ЦТВ", Матч ТВ
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=match
