@@ -183,8 +183,8 @@ https://nsk19.peers.tv/streaming/sony_turbo/16/tvrecw/playlist.m3u8?token=eyJhbG
 #EXTINF:-1 group-title="Кино и сериалы", .sci-fi
 http://178.124.179.122:8088/Sci-Fi/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/12040/logo_256_1655390551.png" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Dizi Channel
-https://mhd116.iptv2022.com/p/NDo5vYMQ6B6o48gbRTkKcQ,1750618590/streaming/dizitv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Timeless Dizi Channel
+http://api.peers.tv/timeshift/timeless_dizi_channel/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA2NjE5ODYsImlhdCI6MTc1MDU3NTU4NiwiY2lkIjo2LCJ1aWQiOjkyNTMzNTM4MiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.8g1KhbzmIqxUPhPzCR5zlCByjZ1G1x28ESmSbRYvVyc&offset=10
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", ТВ21
 https://nsk19.peers.tv/streaming/tv21/16/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA1OTI1OTksImlhdCI6MTc1MDUwNjE5OSwiY2lkIjo4MSwidWlkIjo5MjUxNjYwMjcsInJlZyI6ZmFsc2UsImlwIjozMTE0ODg3MDI4fQ.QH1LuM0EE-JGhKGPBQsT1hz4g_Xuh_etBfJ4Y9w1hWk&client=81
@@ -348,11 +348,11 @@ http://178.217.72.66:8080/Da_Vinchi/index.m3u8
 #EXTINF:-0 group-title="Детские", СТС Kids
 http://213.91.178.133:8000/play/a07g
 
-EXTINF:-0 group-title="Детские", Gulli Girl
-https://nsk19.peers.tv/streaming/gulli_girl/16/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA1OTI1OTksImlhdCI6MTc1MDUwNjE5OSwiY2lkIjo4MSwidWlkIjo5MjUxNjYwMjcsInJlZyI6ZmFsc2UsImlwIjozMTE0ODg3MDI4fQ.QH1LuM0EE-JGhKGPBQsT1hz4g_Xuh_etBfJ4Y9w1hWk&client=81
-
 #EXTINF:-0 group-title"Детские", Magic Disney TOKEN
 http://133ac368.ucomist.net/iptv/GXEBH8LM3R4AC9/18064/index.m3u8
+
+EXTINF:-0 group-title="Детские", Gulli Girl
+https://nsk19.peers.tv/streaming/gulli_girl/16/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA1OTI1OTksImlhdCI6MTc1MDUwNjE5OSwiY2lkIjo4MSwidWlkIjo5MjUxNjYwMjcsInJlZyI6ZmFsc2UsImlwIjozMTE0ODg3MDI4fQ.QH1LuM0EE-JGhKGPBQsT1hz4g_Xuh_etBfJ4Y9w1hWk&client=81
 
 #EXTINF:-0 group-title="Детские", Киносемья
 http://api.peers.tv/timeshift/hd_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA2MTg2MDEsImlhdCI6MTc1MDUzMjIwMSwiY2lkIjo2LCJ1aWQiOjkyNTI0OTE0MiwicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.kl9mmwxRCfBkETf6a6DXfJbUSwN0hrzNzvW-_93l5bA&offset=10
@@ -360,7 +360,7 @@ http://api.peers.tv/timeshift/hd_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiI
 #EXTINF:-0 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10158/logo_256_1658736584.png" group-title="Детские", Капитан Фантастика
 http://api.peers.tv/timeshift/ginger_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA2MTg2MDEsImlhdCI6MTc1MDUzMjIwMSwiY2lkIjo2LCJ1aWQiOjkyNTI0OTE0MiwicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.kl9mmwxRCfBkETf6a6DXfJbUSwN0hrzNzvW-_93l5bA&offset=10
 
-#EXTINF:-0 tvg-logo="https://papik.pro/uploads/posts/2021-11/1636194800_1-papik-pro-p-smeshariki-logotip-foto-1.jpg" tvg-id="zal-11-tricolor" group-title="Детские", Смешарики
+#EXTINF:-0 tvg-logo="https://pic.uma.media/cwebp/pic/cardimage/c0/99/c0992a350a1e1c1f93d7761819a31009.jpg?size=900&quality=95" tvg-id="zal-11-tricolor" group-title="Детские", Смешарики
 https://stream-msk-16.ott.tricolor.tv/dtv/id976_MSKSG-PVR-1--Kinozal_11/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MDY2NDIxMiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUwMDU5NDEyLCJzZXNzaW9uX2lkIjoiOWIwM2JkZWZiMWFlZGZkNDlkMDg1YTczZmMyZjI2OTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.oup_-26s2K6Q23A1OngOwOjVSN8ZbN3WoTqgrD7glf8
 
 #EXTINF:-0 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", БСТ
