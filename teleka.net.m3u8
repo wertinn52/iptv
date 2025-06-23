@@ -16,7 +16,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 
 #EXTINF:-1 group-title="ЦТВ", Россия 1 HD +2 
-https://live-mirror-06.ott.tricolor.tv/live/live/Rossia_1_0_hd/hls_enc/Rossia_1_0_hd-avc1_3299968=10003.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MjIxOTAwOTUwMzkwNCIsImV4cCI6MTc1MTMxMTU4NCwiaHdpZCI6ImQzYmY0Y2I5OWQ3ZTJkZmEwNmY5NjczMTUyYTJlZGY3YzZmNjE4ZDk4OGQ1MTYwNjAyMDQxZDc0ZTRiNWEzNmYiLCJsYXN0X3JlcV9kYXRlIjoxNzUwNzA2Nzg0LCJzZXNzaW9uX2lkIjoiODk0ODg4MjlkZDdiNGNmZGY1NmNkYzdmNWQzMDVmODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.b9lvJ_5GI6Lp9TV-nRMzeC6H7_WbJ8KJhtOjaEV0Gm0
+https://edge02r.mediavitrina.ru/dashp-livef1/russia1_2/tracks-v1/init.m4v
 
 #EXTINF:-1 group-title="ЦТВ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Матч ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
@@ -196,7 +196,7 @@ http://cdn.admuspeh.my/8115/video.m3u8?token=NVbvJ28N26iEqQiP
 http://77.235.1.19:8000/play/a083/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", ТВ21+
-https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
+http://77.235.1.19:8000/play/a010/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Кинопремьера
 http://77.235.1.19:8000/play/a07s/index.m3u8
