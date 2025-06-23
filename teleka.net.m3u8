@@ -16,7 +16,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 
 #EXTINF:-1 group-title="ЦТВ", Россия 1 HD +2 
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
+https://live-mirror-06.ott.tricolor.tv/live/live/Rossia_1_0_hd/hls_enc/Rossia_1_0_hd-avc1_3299968=10003.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MjIxOTAwOTUwMzkwNCIsImV4cCI6MTc1MTMxMTU4NCwiaHdpZCI6ImQzYmY0Y2I5OWQ3ZTJkZmEwNmY5NjczMTUyYTJlZGY3YzZmNjE4ZDk4OGQ1MTYwNjAyMDQxZDc0ZTRiNWEzNmYiLCJsYXN0X3JlcV9kYXRlIjoxNzUwNzA2Nzg0LCJzZXNzaW9uX2lkIjoiODk0ODg4MjlkZDdiNGNmZGY1NmNkYzdmNWQzMDVmODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.b9lvJ_5GI6Lp9TV-nRMzeC6H7_WbJ8KJhtOjaEV0Gm0
 
 #EXTINF:-1 group-title="ЦТВ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Матч ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
