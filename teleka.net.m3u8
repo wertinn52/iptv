@@ -16,7 +16,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 
 #EXTINF:-1 group-title="ЦТВ", Россия 1 HD +2 
-https://edge01p.mediavitrina.ru/dashp-livef2/russia1_2/index.mpd?token=v2.z7ZnkOOfuERrEDyapUYkIGmxdTbGpcJxmSCObQ-P498.VtgbRmtH8XBS9O_EfsCPIr4EsoP6e3unIA908fUrg3Y.1751314332.94c06da22d6b906114f24c4132350c81
+https:\\edge01p.mediavitrina.ru\hls-livef2\russia1_2\index.m3u8?token=v2.z7ZnkOOfuERrEDyapUYkIGmxdTbGpcJxmSCObQ-P498.VtgbRmtH8XBS9O_EfsCPIr4EsoP6e3unIA908fUrg3Y.1751314332.94c06da22d6b906114f24c4132350c81
 
 #EXTINF:-1 group-title="ЦТВ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Матч ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
