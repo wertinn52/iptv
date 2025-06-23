@@ -16,7 +16,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 
 #EXTINF:-1 group-title="ЦТВ", Россия 1 HD +2 
-#EXTVLCOPT:network-caching=5000
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
 
 #EXTINF:-1 group-title="ЦТВ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Матч ТВ
@@ -194,7 +193,8 @@ https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
 http://api.peers.tv/timeshift/premera/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA3NDgyNDYsImlhdCI6MTc1MDY2MTg0NiwiY2lkIjo2LCJ1aWQiOjkyNTU1OTc2OCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MzAyMzIsImFkdWx0IjpmYWxzZX0.AfLWFoUN1aZVt3udZZCH5LGHYFdl7upcv4HOnoFng1k&offset=10
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", КиноХит
-http://api.peers.tv/timeshift/kinohit/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA3NDgyNDYsImlhdCI6MTc1MDY2MTg0NiwiY2lkIjo2LCJ1aWQiOjkyNTU1OTc2OCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MzAyMzIsImFkdWx0IjpmYWxzZX0.AfLWFoUN1aZVt3udZZCH5LGHYFdl7upcv4HOnoFng1k&offset=10
+#EXTVLCOPT:network-caching=1500
+http://178.212.71.253:8000/play/123/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Киносемья
 http://api.peers.tv/timeshift/hd_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA3NDgyNDYsImlhdCI6MTc1MDY2MTg0NiwiY2lkIjo2LCJ1aWQiOjkyNTU1OTc2OCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MzAyMzIsImFkdWx0IjpmYWxzZX0.AfLWFoUN1aZVt3udZZCH5LGHYFdl7upcv4HOnoFng1k&offset=10
