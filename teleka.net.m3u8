@@ -177,7 +177,7 @@ http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Start_Air.m3u
 #EXTINF:-1 tvg-id="start-world" group-title="Кино и сериалы", Start World HD
 http://77.235.1.19:8000/play/a07l/index.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы",Star Cinema
+#EXTINF:-1 group-title="Кино и сериалы", Star Cinema
 http://77.235.1.19:8000/play/a043/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Star Family
