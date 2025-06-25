@@ -244,7 +244,7 @@ https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_2
 
 #EXTINF:-1 tvg-logo="http://i124.fastpic.org/big/2025/0304/2c/930f3fcde26e11a3322ed8f37b89952c.png" tvg-id="zal-03-tricolor" group-title="Кинозалы 2", МЕНТОВСКИЕ ВОЙНЫ
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_3
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_3 :network-caching=2000 :clock-jitter=0
 
 #EXTINF:-1 tvg-logo="http://i124.fastpic.org/big/2025/0304/bb/f6ff9fec67ced8a86cacf2288a3ae6bb.png" tvg-id="zal-05-tricolor" group-title="Кинозалы 2", СОЛДАТЫ
 https://stream-msk-16.ott.tricolor.tv/dtv/id925_MSKSG-PVR-1--Kinozal_5/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MDY2NDIxMiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUwMDU5NDEyLCJzZXNzaW9uX2lkIjoiOWIwM2JkZWZiMWFlZGZkNDlkMDg1YTczZmMyZjI2OTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.oup_-26s2K6Q23A1OngOwOjVSN8ZbN3WoTqgrD7glf8
