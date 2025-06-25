@@ -349,7 +349,7 @@ http://77.235.1.19:8000/play/a084/index.m3u8 :network-caching=2000 :clock-jitter
 http://77.235.1.19:8000/play/a06a/index.m3u8 :network-caching=2000 :clock-jitter=0
 
 #EXTINF:-1 group-title="Детские",Смайлик ТВ
-https://livetv.mylifeisgood.net.ru/channels/smile.m3u8 http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://livetv.mylifeisgood.net.ru/channels/smile.m3u8 http-user-agent=Chrome/112.0.0.0
 
 #EXTINF:-0 tvg-logo="https://pic.uma.media/cwebp/pic/cardimage/c0/99/c0992a350a1e1c1f93d7761819a31009.jpg?size=900&quality=95" tvg-id="zal-11-tricolor" group-title="Детские", Смешарики
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_11
