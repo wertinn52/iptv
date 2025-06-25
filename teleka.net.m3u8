@@ -27,8 +27,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
 #EXTINF:-1 group-title="ЦТВ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятый канал +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
 
-#EXTINF:-1 group-title="ЦТВ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", IZ.RU
-http://77.235.1.19:8000/play/a06f/index.m3u8
+#EXTINF:-1 group-title="ЦТВ" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10143/logo_256_1655452209.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", IZ.RU
+http://195.18.23.20:8000/play/51/index.m3u8
 
 #EXTINF:-0 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ЦТВ", Карусель +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
