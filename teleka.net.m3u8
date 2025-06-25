@@ -292,43 +292,43 @@ http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
 http://31.210.208.171:8080/mult/index.m3u8?token=+W2MSER
 
 #EXTINF:-0 group-title="Детские", Ani
-http://178.212.71.253:8000/play/74/index.m3u8
+http://178.212.71.253:8000/play/74/index.m3u8 :network-caching=2000 :clock-jitter=0
 
 #EXTINF:-0 group-title="Детские", Мультиландия
-http://178.217.72.66:8080/multilandiya/index.m3u8
+http://178.217.72.66:8080/multilandiya/index.m3u8 :network-caching=2000 :clock-jitter=0
 
 #EXTINF:-0 group-title="Детские", О!
-http://77.235.1.19:8000/play/a057/index.m3u8
+http://77.235.1.19:8000/play/a057/index.m3u8 :network-caching=2000 :clock-jitter=0
 
 #EXTINF:-0 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские", В гостях у сказки
-http://178.217.72.66:8080/Black/index.m3u8
+http://178.217.72.66:8080/Black/index.m3u8 :network-caching=2000 :clock-jitter=0
 
 #EXTINF:-0 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские", Уникум
-http://77.235.1.19:8000/play/a079/index.m3u8
+http://77.235.1.19:8000/play/a079/index.m3u8 :network-caching=2000 :clock-jitter=0
 
 #EXTINF:-0 group-title="Детские", Мама
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mama
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mama :network-caching=2000 :clock-jitter=0
 
 #EXTINF:-0 group-title="Детские" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", 2x2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8 :network-caching=2000 :clock-jitter=0
 
 #EXTINF:-0 tvg-id="da-vinci" group-title="Детские", Да Винчи
-http://178.217.72.66:8080/Da_Vinchi/index.m3u8
+http://178.217.72.66:8080/Da_Vinchi/index.m3u8 :network-caching=2000 :clock-jitter=0
 
 #EXTINF:-0 group-title="Детские", СТС Kids
-http://80.245.95.243:8888/play/tpi8789/index.m3u8
+http://80.245.95.243:8888/play/tpi8789/index.m3u8 :network-caching=2000 :clock-jitter=0
 
 EXTINF:-0 group-title="Детские", Gulli Girl
-http://77.235.1.19:8000/play/a084/index.m3u8
+http://77.235.1.19:8000/play/a084/index.m3u8 :network-caching=2000 :clock-jitter=0
 
 #EXTINF:-0 group-title="Детские", Киносемья
-http://77.235.1.19:8000/play/a06a/index.m3u8 :network-caching=1500 :clock-jitter=0
+http://77.235.1.19:8000/play/a06a/index.m3u8 :network-caching=2000 :clock-jitter=0
 
 #EXTINF:-0 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10158/logo_256_1658736584.png" group-title="Детские", Капитан Фантастика
 http://api.peers.tv/timeshift/ginger_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA2MTg2MDEsImlhdCI6MTc1MDUzMjIwMSwiY2lkIjo2LCJ1aWQiOjkyNTI0OTE0MiwicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.kl9mmwxRCfBkETf6a6DXfJbUSwN0hrzNzvW-_93l5bA&offset=10
 
 #EXTINF:-0 tvg-logo="https://pic.uma.media/cwebp/pic/cardimage/c0/99/c0992a350a1e1c1f93d7761819a31009.jpg?size=900&quality=95" tvg-id="zal-11-tricolor" group-title="Детские", Смешарики
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_11
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_11 :network-caching=2000 :clock-jitter=0
 
 #EXTINF:-0 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", БСТ
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
