@@ -6,7 +6,7 @@
 
 #EXTM3U x-tvg-url="http://epg.it999.ru/edem.xml.gz"
 
-#EXTINF:-1 group-title="ОБНОВЛЕНО",ОБНОВЛЕНО 24.06.2025
+#EXTINF:-1 group-title="ОБНОВЛЕНО",ОБНОВЛЕНО 26.06.2025
 https://dn720404.ca.archive.org/0/items/20070515-rick-roll-d-o-hg-5-sjyrha-0/20070515%20-%20RickRollD%20-%20oHg5SJYRHA0.ia.mp4
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ЦТВ", Первый канал +2
@@ -292,7 +292,7 @@ http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
 http://31.210.208.171:8080/mult/index.m3u8?token=+W2MSER
 
 #EXTINF:-0 group-title="Детские", Ani
-http://77.235.1.19:8000/play/a00m/index.m3u8
+http://178.212.71.253:8000/play/74/index.m3u8
 
 #EXTINF:-0 group-title="Детские", Мультиландия
 http://178.217.72.66:8080/multilandiya/index.m3u8
