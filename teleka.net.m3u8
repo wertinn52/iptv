@@ -6,7 +6,7 @@
 
 #EXTM3U x-tvg-url="http://epg.it999.ru/edem.xml.gz"
 
-#EXTINF:-1 ОБНОВЛЕНО 26.06.2025
+#EXTINF:-1 group-title="ИНФО", ОБНОВЛЕНО 26.06.2025
 https://dn720404.ca.archive.org/0/items/20070515-rick-roll-d-o-hg-5-sjyrha-0/20070515%20-%20RickRollD%20-%20oHg5SJYRHA0.ia.mp4
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ЦТВ", Первый канал +2
@@ -136,13 +136,13 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Den_Pobedy
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Pobeda
 
 #EXTINF:-1 tvg-id="tv1000" group-title="Кино и сериалы", viju TV1000
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=N2Dc3_4qYjLLejkZLZMgXA&e=1751139610&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5 :network-caching=2000 :clock-jitter=1
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=N2Dc3_4qYjLLejkZLZMgXA&e=1751139610&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Кино и сериалы", viju TV1000 Русское
-http://213.91.178.133:8000/play/a0bx :network-caching=2000 :clock-jitter=1
+http://213.91.178.133:8000/play/a0bx
 
 #EXTINF:-1 tvg-id="tv1000-action" group-title="Кино и сериалы", viju TV1000 Action
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=TxXAXzEOq-uVyD5gRBGCFg&e=1751139577&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5 :network-caching=2000 :clock-jitter=1
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=TxXAXzEOq-uVyD5gRBGCFg&e=1751139577&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 tvg-id="amedia1" group-title="Кино и сериалы", Amedia 1
 http://178.217.72.66:8080/A1/video.m3u8
