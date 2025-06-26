@@ -61,7 +61,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Russkiy_detektiv
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Rus_Bests
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Русский иллюзион
-http://178.217.72.66:8080/Russkiy_Illyuzion/index.m3u8
+http://178.212.71.253:8000/play/49/index.m3u8 :network-caching=1500 :clock-jitter=1
 
 #EXTINF:-1 tvg-id="domkino" group-title="Кино и сериалы", Дом кино
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=D_Kino
@@ -208,10 +208,10 @@ http://80.245.95.243:8888/play/a002/index.m3u8
 http://31.210.208.171:8080/nashe_novoe_kino/index.m3u8?token=+W2MSER :network-caching=2000 :clock-jitter=0
 
 #EXTINF:-1 group-title="Кино и сериалы", Родное Кино
-http://178.212.71.253:8000/play/136/index.m3u8 :network-caching=1500 :clock-jitter=1
+http://178.212.71.253:8000/play/136/index.m3u8 :network-caching=2500 :clock-jitter=1
 
 #EXTINF:-1 group-title="Кино и сериалы", Мужское Кино
-http://178.212.71.253:8000/play/126/index.m3u8 :network-caching=1500 :clock-jitter=1
+http://178.212.71.253:8000/play/126/index.m3u8 :network-caching=2500 :clock-jitter=1
 
 #EXTINF:-1 group-title="Кинозалы 2" tvg-logo="https://m3u.admuspeh.my/icon/cineman-svaty.png" tvg-id="CineMan Сваты FHD", Сваты
 http://cdn.admuspeh.my/8825/video.m3u8?token=NVbvJ28N26iEqQiP
