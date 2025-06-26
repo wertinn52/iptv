@@ -151,16 +151,16 @@ http://80.245.95.243:8888/play/a02k/index.m3u8
 http://80.245.95.243:8888/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-id="amedia1" group-title="Кино и сериалы", Amedia 1
-http://178.217.72.66:8080/A1/video.m3u8 :network-caching=2000 :clock-jitter=0
+http://178.217.72.66:8080/A1/video.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Amedia 2
-http://178.217.72.66:8080/A2/index.m3u8 :network-caching=2000 :clock-jitter=0
+http://178.217.72.66:8080/A2/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Hit HD
-http://178.217.72.66:8080/Amedia_Hit/index.m3u8 :network-caching=2000 :clock-jitter=0
+http://178.217.72.66:8080/Amedia_Hit/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Premium HD
-http://178.217.72.66:8080/Amedia_Premium_HD/index.m3u8 :network-caching=2000 :clock-jitter=0
+http://178.217.72.66:8080/Amedia_Premium_HD/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", KINOJAM 1
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_1
@@ -169,16 +169,16 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_1
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_2
 
 #EXTINF:-1 group-title="Кино и сериалы", Star Cinema
-http://80.245.95.243:8888/play/a02f/index.m3u8 :network-caching=2000 :clock-jitter=0
+http://80.245.95.243:8888/play/a02f/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Star Family
-http://80.245.95.243:8888/play/a00e/index.m3u8 :network-caching=2000 :clock-jitter=0
+http://80.245.95.243:8888/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-id="start-air" group-title="Кино и сериалы", Start Air HD
-http://77.235.1.19:8000/play/a07k/index.m3u8 :network-caching=2000 :clock-jitter=0
+http://77.235.1.19:8000/play/a07k/index.m3u8
 
 #EXTINF:-1 tvg-id="start-world" group-title="Кино и сериалы", Start World HD
-http://77.235.1.19:8000/play/a07l/index.m3u8 :network-caching=2000 :clock-jitter=0
+http://77.235.1.19:8000/play/a07l/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", .red
 http://80.245.95.243:8888/play/a00n/index.m3u8 :network-caching=2000 :clock-jitter=0
@@ -193,22 +193,22 @@ http://cdn.admuspeh.my/8115/video.m3u8?token=NVbvJ28N26iEqQiP
 http://77.235.1.19:8000/play/a083/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10697/logo_256_1660892137.png" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", ТВ21+
-https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
+http://31.210.208.171:8080/xxi/index.m3u8?token=+W2MSER :network-caching=2000 :clock-jitter=0
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Кинопремьера
-http://80.245.95.243:8888/play/a00s/index.m3u8 :network-caching=2000 :clock-jitter=0
+http://80.245.95.243:8888/play/a00s/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", КиноХит
-http://80.245.95.243:8888/play/a00j/index.m3u8 :network-caching=2000 :clock-jitter=0
+http://80.245.95.243:8888/play/a00j/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Киносемья
-http://80.245.95.243:8888/play/a013/index.m3u8 :network-caching=2000 :clock-jitter=0
+http://178.212.71.253:8000/play/127/index.m3u8 :network-caching=2000 :clock-jitter=0
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Киномикс
-http://80.245.95.243:8888/play/a012/index.m3u8 :network-caching=2000 :clock-jitter=0
+http://80.245.95.243:8888/play/a012/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Киносерия
-http://80.245.95.243:8888/play/a002/index.m3u8 :network-caching=2000 :clock-jitter=0
+http://80.245.95.243:8888/play/a002/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Наше новое кино
 http://sc.id-tv.kz/Nnk_hd.m3u8
@@ -346,7 +346,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
 http://178.217.72.66:8080/Da_Vinchi/index.m3u8
 
 #EXTINF:-0 group-title="Детские", СТС Kids
-http://80.245.95.243:8888/play/tpi8789/index.m3u8 :network-caching=2000 :clock-jitter=0
+http://80.245.95.243:8888/play/tpi8789/index.m3u8
 
 EXTINF:-0 group-title="Детские", Gulli Girl
 http://77.235.1.19:8000/play/a084/index.m3u8 :network-caching=2000 :clock-jitter=0
@@ -355,7 +355,7 @@ http://77.235.1.19:8000/play/a084/index.m3u8 :network-caching=2000 :clock-jitter
 http://77.235.1.19:8000/play/a06a/index.m3u8 :network-caching=2000 :clock-jitter=0
 
 #EXTINF:-0 group-title="Детские", Капитан Фантастика
-https://tv.tvcdnpotok.com/LBg-0Rho9G04ROEwd6vI4g/2044/1750904234/index.m3u8 :network-caching=2000 :clock-jitter=0
+http://arbiter.bolshoe.tv/?path=abr1/GingerHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI1IDY6NTc6NDEgUE0maGFzaF92YWx1ZT1OREtjS2JFWERvcElFTGdPUWFjd3dnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-0 tvg-logo="https://pic.uma.media/cwebp/pic/cardimage/c0/99/c0992a350a1e1c1f93d7761819a31009.jpg?size=900&quality=95" tvg-id="zal-11-tricolor" group-title="Детские", Смешарики
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_11
