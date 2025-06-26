@@ -346,7 +346,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
 http://178.217.72.66:8080/Da_Vinchi/index.m3u8
 
 #EXTINF:-0 tvg-id="da-vinci" group-title="Детские", Да Винчи TEST
-https://livetv.mylifeisgood.net.ru/channels/davinci.m3u8
+https://livetv.mylifeisgood.net.ru/channels/davinci.m3u8 :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 
 #EXTINF:-0 group-title="Детские", СТС Kids
 http://80.245.95.243:8888/play/tpi8789/index.m3u8
