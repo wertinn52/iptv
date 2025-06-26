@@ -100,7 +100,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_1
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_kinopokaz_HD
 
 #EXTINF:-1 group-title="Кино и сериалы", Наше крутое HD
-https://stream-msk-05.ott.tricolor.tv/dtv/id525_MSKSG-PVR-1--Nashe_krutoe_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MDY2NDIxMiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUwMDU5NDEyLCJzZXNzaW9uX2lkIjoiOWIwM2JkZWZiMWFlZGZkNDlkMDg1YTczZmMyZjI2OTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.oup_-26s2K6Q23A1OngOwOjVSN8ZbN3WoTqgrD7glf8
+https://stream-msk-05.ott.tricolor.tv/dtv/id525_MSKSG-PVR-1--Nashe_krutoe_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1MTI1MDg1NywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzUwNjQ2MDU3LCJzZXNzaW9uX2lkIjoiNjM1MjY0OWY0MzY1MGMzYTYxMjBlOGQwODM5YTY2ZTYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.FhKdBFbsMDMWAcwgqqZEooC95ITBwIlzyIZA28l6iGY
 
 #EXTINF:-1 group-title="Кино и сериалы", Криминальное HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kriminalnoe_HD
@@ -151,10 +151,16 @@ http://80.245.95.243:8888/play/a02k/index.m3u8
 http://80.245.95.243:8888/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-id="amedia1" group-title="Кино и сериалы", Amedia 1
-http://sc.id-tv.kz/A1.m3u8
+http://178.217.72.66:8080/A1/video.m3u8 :network-caching=2000 :clock-jitter=0
 
 #EXTINF:-1 group-title="Кино и сериалы", Amedia 2
-http://sc.id-tv.kz/A2_36_37.m3u8
+http://178.217.72.66:8080/A2/index.m3u8 :network-caching=2000 :clock-jitter=0
+
+#EXTINF:-1 group-title="Кино и сериалы", Amedia Hit HD
+http://178.217.72.66:8080/Amedia_Hit/index.m3u8 :network-caching=2000 :clock-jitter=0
+
+#EXTINF:-1 group-title="Кино и сериалы", Amedia Premium HD
+http://178.217.72.66:8080/Amedia_Premium_HD/index.m3u8 :network-caching=2000 :clock-jitter=0
 
 #EXTINF:-1 group-title="Кино и сериалы", KINOJAM 1
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_1
@@ -163,10 +169,10 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_1
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_2
 
 #EXTINF:-1 group-title="Кино и сериалы", Star Cinema
-http://77.235.1.19:8000/play/a043/index.m3u8 :network-caching=2000 :clock-jitter=0
+http://80.245.95.243:8888/play/a02f/index.m3u8 :network-caching=2000 :clock-jitter=0
 
 #EXTINF:-1 group-title="Кино и сериалы", Star Family
-http://77.235.1.19:8000/play/a042/index.m3u8 :network-caching=2000 :clock-jitter=0
+http://80.245.95.243:8888/play/a00e/index.m3u8 :network-caching=2000 :clock-jitter=0
 
 #EXTINF:-1 tvg-id="start-air" group-title="Кино и сериалы", Start Air HD
 http://77.235.1.19:8000/play/a07k/index.m3u8 :network-caching=2000 :clock-jitter=0
@@ -208,10 +214,10 @@ http://80.245.95.243:8888/play/a002/index.m3u8 :network-caching=2000 :clock-jitt
 http://sc.id-tv.kz/Nnk_hd.m3u8
 
 #EXTINF:-1 group-title="Кинозалы 2" tvg-logo="https://m3u.admuspeh.my/icon/cineman-svaty.png" tvg-id="CineMan Сваты FHD", Сваты
-http://cdn.admuspeh.my/8825/video.m3u8?token=NVbvJ28N26iEqQiP :network-caching=2000 :clock-jitter=0
+http://cdn.admuspeh.my/8825/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-0 group-title="Кинозалы 2", СВАТЫ 2
-http://cdn.admuspeh.my/9080/video.m3u8?token=NVbvJ28N26iEqQiP :network-caching=2000 :clock-jitter=0
+http://cdn.admuspeh.my/9080/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 tvg-logo="http://i124.fastpic.org/big/2025/0304/c3/9d29366a560ba712d960bb053d8855c3.png" tvg-id="Исторический HD" group-title="Кинозалы 2", ИСТОРИЧЕСКИЙ HD
 https://live-mirror-19.ott.tricolor.tv/dtv/id1006_MSKSG-PVR-1--kinozal_20_hd/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1MTI1MDg1NywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzUwNjQ2MDU3LCJzZXNzaW9uX2lkIjoiNjM1MjY0OWY0MzY1MGMzYTYxMjBlOGQwODM5YTY2ZTYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.FhKdBFbsMDMWAcwgqqZEooC95ITBwIlzyIZA28l6iGY
@@ -316,7 +322,7 @@ http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
 http://31.210.208.171:8080/mult/index.m3u8?token=+W2MSER
 
 #EXTINF:-0 group-title="Детские", Ani
-http://178.212.71.253:8000/play/74/index.m3u8 :network-caching=2000 :clock-jitter=0
+http://31.210.208.171:8080/ani/index.m3u8?token=+W2MSER :network-caching=2000 :clock-jitter=0
 
 #EXTINF:-0 group-title="Детские", Мультиландия
 http://178.217.72.66:8080/multilandiya/index.m3u8
