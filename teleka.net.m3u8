@@ -196,7 +196,7 @@ http://80.245.95.243:8888/play/a00s/index.m3u8
 http://80.245.95.243:8888/play/a00j/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Киносемья
-http://178.212.71.253:8000/play/127/index.m3u8 :network-caching=2500 :clock-jitter=0
+http://178.212.71.253:8000/play/127/index.m3u8 :network-caching=500 :clock-jitter=0
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Киномикс
 http://80.245.95.243:8888/play/a012/index.m3u8
@@ -206,6 +206,12 @@ http://80.245.95.243:8888/play/a002/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Наше новое кино
 http://31.210.208.171:8080/nashe_novoe_kino/index.m3u8?token=+W2MSER :network-caching=2000 :clock-jitter=0
+
+#EXTINF:-1 group-title="Кино и сериалы", Родное Кино
+http://178.212.71.253:8000/play/136/index.m3u8 :network-caching=500 :clock-jitter=0
+
+#EXTINF:-1 group-title="Кино и сериалы", Мужское Кино
+http://178.212.71.253:8000/play/126/index.m3u8 :network-caching=500 :clock-jitter=0
 
 #EXTINF:-1 group-title="Кинозалы 2" tvg-logo="https://m3u.admuspeh.my/icon/cineman-svaty.png" tvg-id="CineMan Сваты FHD", Сваты
 http://cdn.admuspeh.my/8825/video.m3u8?token=NVbvJ28N26iEqQiP
@@ -299,9 +305,6 @@ https://live-mirror-18.ott.tricolor.tv/dtv/id1035_MSKSG-PVR-1--Kinozal_33/04/pls
 
 #EXTINF:-0 group-title="Детские" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Карусель
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-
-#EXTINF:-0 tvg-id="karusel" tvg-logo="http://only4.tv/ch/822.png" group-title="Детские", Карусель HD
-https://live-stream-12.ott.tricolor.tv/live/live/karusel/hls_enc/karusel-avc1_2000000=10002_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1MTI1MDg1NywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzUwNjQ2MDU3LCJzZXNzaW9uX2lkIjoiNjM1MjY0OWY0MzY1MGMzYTYxMjBlOGQwODM5YTY2ZTYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.FhKdBFbsMDMWAcwgqqZEooC95ITBwIlzyIZA28l6iGY
 
 #EXTINF:-0 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские", Карусель +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
