@@ -136,13 +136,13 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Den_Pobedy
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Pobeda
 
 #EXTINF:-1 tvg-id="tv1000" group-title="Кино и сериалы", viju TV1000
-http://80.245.95.243:8888/play/a02g/index.m3u8
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000.m3u8?|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Кино и сериалы", viju TV1000 Русское
-http://80.245.95.243:8888/play/a02k/index.m3u8
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000russkoe.m3u8?|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 
 #EXTINF:-1 tvg-id="tv1000-action" group-title="Кино и сериалы", viju TV1000 Action
-http://80.245.95.243:8888/play/a00i/index.m3u8
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8?|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 
 #EXTINF:-1 tvg-id="amedia1" group-title="Кино и сериалы", Amedia 1
 http://178.217.72.66:8080/A1/video.m3u8
@@ -355,6 +355,7 @@ http://77.235.1.19:8000/play/a084/index.m3u8 :network-caching=2000 :clock-jitter
 http://77.235.1.19:8000/play/a06a/index.m3u8 :network-caching=2000 :clock-jitter=0
 
 #EXTINF:-1 group-title="Детские", Рыжий
+#EXT-X-STREAM-INF:BANDWIDTH=1400000,RESOLUTION=1280x720
 https://livetv.mylifeisgood.net.ru/channels/ryjii.m3u8?|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 
 #EXTINF:-0 group-title="Детские", Капитан Фантастика
