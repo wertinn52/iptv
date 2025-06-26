@@ -196,7 +196,7 @@ http://80.245.95.243:8888/play/a00s/index.m3u8
 http://80.245.95.243:8888/play/a00j/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Киносемья
-http://178.212.71.253:8000/play/127/index.m3u8 :network-caching=500 :clock-jitter=0
+http://178.212.71.253:8000/play/127/index.m3u8 :network-caching=350 :clock-jitter=0
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Киномикс
 http://80.245.95.243:8888/play/a012/index.m3u8
@@ -208,10 +208,10 @@ http://80.245.95.243:8888/play/a002/index.m3u8
 http://31.210.208.171:8080/nashe_novoe_kino/index.m3u8?token=+W2MSER :network-caching=2000 :clock-jitter=0
 
 #EXTINF:-1 group-title="Кино и сериалы", Родное Кино
-http://178.212.71.253:8000/play/136/index.m3u8 :network-caching=500 :clock-jitter=0
+http://178.212.71.253:8000/play/136/index.m3u8 :network-caching=350 :clock-jitter=0
 
 #EXTINF:-1 group-title="Кино и сериалы", Мужское Кино
-http://178.212.71.253:8000/play/126/index.m3u8 :network-caching=500 :clock-jitter=0
+http://178.212.71.253:8000/play/126/index.m3u8 :network-caching=350 :clock-jitter=0
 
 #EXTINF:-1 group-title="Кинозалы 2" tvg-logo="https://m3u.admuspeh.my/icon/cineman-svaty.png" tvg-id="CineMan Сваты FHD", Сваты
 http://cdn.admuspeh.my/8825/video.m3u8?token=NVbvJ28N26iEqQiP
@@ -337,13 +337,16 @@ http://178.217.72.66:8080/Black/index.m3u8
 http://77.235.1.19:8000/play/a079/index.m3u8 :network-caching=2000 :clock-jitter=0
 
 #EXTINF:-0 group-title="Детские", Мама
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mama :network-caching=2000 :clock-jitter=0
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mama
 
 #EXTINF:-0 group-title="Детские" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", 2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
 
 #EXTINF:-0 tvg-id="da-vinci" group-title="Детские", Да Винчи
 http://178.217.72.66:8080/Da_Vinchi/index.m3u8
+
+#EXTINF:-0 tvg-id="da-vinci" group-title="Детские", Да Винчи TEST
+https://livetv.mylifeisgood.net.ru/channels/davinci.m3u8 :network-caching=2000 :clock-jitter=0
 
 #EXTINF:-0 group-title="Детские", СТС Kids
 http://80.245.95.243:8888/play/tpi8789/index.m3u8
