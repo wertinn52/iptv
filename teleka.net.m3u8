@@ -16,7 +16,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 
 #EXTINF:-1 group-title="ЦТВ", Россия 1 HD +2 
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8 :network-caching=1500 :clock-jitter=0
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8 :network-caching=2000 :clock-jitter=0
 
 #EXTINF:-1 group-title="ЦТВ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Матч ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
@@ -26,9 +26,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
 
 #EXTINF:-1 group-title="ЦТВ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятый канал +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
-
-#EXTINF:-1 group-title="ЦТВ" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10143/logo_256_1655452209.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", IZ.RU
-http://195.18.23.20:8000/play/51/index.m3u8
 
 #EXTINF:-0 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ЦТВ", Карусель +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
@@ -187,7 +184,7 @@ http://80.245.95.243:8888/play/a00n/index.m3u8 :network-caching=2000 :clock-jitt
 http://80.245.95.243:8888/play/a010/index.m3u8 :network-caching=2000 :clock-jitter=0
 
 #EXTINF:-1 group-title="Кино и сериалы", .sci-fi
-http://cdn.admuspeh.my/8115/video.m3u8?token=NVbvJ28N26iEqQiP
+http://178.124.179.122:8088/Sci-Fi/index.m3u8 :network-caching=2500 :clock-jitter=0
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Timeless Dizi Channel
 http://77.235.1.19:8000/play/a083/index.m3u8
@@ -202,7 +199,7 @@ http://80.245.95.243:8888/play/a00s/index.m3u8
 http://80.245.95.243:8888/play/a00j/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Киносемья
-http://178.212.71.253:8000/play/127/index.m3u8 :network-caching=500 :clock-jitter=0
+http://178.212.71.253:8000/play/127/index.m3u8 :network-caching=2500 :clock-jitter=0
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Киномикс
 http://80.245.95.243:8888/play/a012/index.m3u8
@@ -211,7 +208,7 @@ http://80.245.95.243:8888/play/a012/index.m3u8
 http://80.245.95.243:8888/play/a002/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Наше новое кино
-http://sc.id-tv.kz/Nnk_hd.m3u8
+http://31.210.208.171:8080/nashe_novoe_kino/index.m3u8?token=+W2MSER :network-caching=2000 :clock-jitter=0
 
 #EXTINF:-1 group-title="Кинозалы 2" tvg-logo="https://m3u.admuspeh.my/icon/cineman-svaty.png" tvg-id="CineMan Сваты FHD", Сваты
 http://cdn.admuspeh.my/8825/video.m3u8?token=NVbvJ28N26iEqQiP
