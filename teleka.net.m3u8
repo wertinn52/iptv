@@ -354,8 +354,7 @@ http://77.235.1.19:8000/play/a084/index.m3u8 :network-caching=2000 :clock-jitter
 #EXTINF:-0 group-title="Детские", Киносемья
 http://77.235.1.19:8000/play/a06a/index.m3u8 :network-caching=2000 :clock-jitter=0
 
-#EXTINF:-1 group-title="Детские", Рыжий
-#EXT-X-STREAM-INF:BANDWIDTH=1400000,RESOLUTION=1280x720
+#EXTINF:-1 group-title="Детские", Рыжий test
 https://livetv.mylifeisgood.net.ru/channels/ryjii.m3u8?|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 
 #EXTINF:-0 group-title="Детские", Капитан Фантастика
