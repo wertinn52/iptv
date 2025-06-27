@@ -213,12 +213,6 @@ http://80.245.95.243:8888/play/age988/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Мужское Кино
 http://80.245.95.243:8888/play/a011/index.m3u8
 
-#EXTINF:-1 group-title="Кинозалы 2" tvg-logo="https://m3u.admuspeh.my/icon/cineman-svaty.png" tvg-id="CineMan Сваты FHD", Сваты
-http://cdn.admuspeh.my/8825/video.m3u8?token=NVbvJ28N26iEqQiP
-
-#EXTINF:-0 group-title="Кинозалы 2", СВАТЫ 2
-http://cdn.admuspeh.my/9080/video.m3u8?token=NVbvJ28N26iEqQiP
-
 #EXTINF:-1 tvg-logo="http://i124.fastpic.org/big/2025/0304/c3/9d29366a560ba712d960bb053d8855c3.png" tvg-id="Исторический HD" group-title="Кинозалы 2", ИСТОРИЧЕСКИЙ HD
 https://live-mirror-19.ott.tricolor.tv/dtv/id1006_MSKSG-PVR-1--kinozal_20_hd/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1MTI1MDg1NywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzUwNjQ2MDU3LCJzZXNzaW9uX2lkIjoiNjM1MjY0OWY0MzY1MGMzYTYxMjBlOGQwODM5YTY2ZTYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.FhKdBFbsMDMWAcwgqqZEooC95ITBwIlzyIZA28l6iGY
 
