@@ -327,8 +327,8 @@ http://178.217.72.66:8080/O/index.m3u8
 #EXTINF:-0 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские", В гостях у сказки
 http://178.217.72.66:8080/Black/index.m3u8
 
-#EXTINF:-0 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские", Уникум
-http://de.online24.pm/play/98/BB2819CA2DE95C0/video.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10082/logo_256_1658744656.png", Уникум
+https://mhd116.iptv2022.com/p/yo1kLVfNzESJoUh69H-AQw,1751180222/streaming/detskiy/324/1/tracks-v5a1/mono.m3u8?|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 
 #EXTINF:-0 group-title="Детские", Мама
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mama
