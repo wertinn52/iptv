@@ -15,6 +15,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ЦТВ", Россия 1 +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 
+#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ЦТВ", Россия 1 HD +2
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD_2.m3u8
+
 #EXTINF:-1 group-title="ЦТВ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Матч ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 
@@ -61,10 +64,10 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Russkiy_detektiv
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Rus_Bests
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Русский иллюзион
-http://178.212.71.253:8000/play/49/index.m3u8 :network-caching=1500 :clock-jitter=1
+http://195.26.83.96:7006/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-id="domkino" group-title="Кино и сериалы", Дом кино
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=D_Kino
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=DomKino_2_SD
 
 #EXTINF:-1 group-title="Кино и сериалы", Дом Кино Премиум HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Dom_Kino_premium
@@ -190,22 +193,22 @@ http://77.235.1.19:8000/play/a083/index.m3u8
 http://31.210.208.171:8080/xxi/index.m3u8?token=+W2MSER
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Кинопремьера
-http://80.245.95.243:8888/play/a00s/index.m3u8
+http://tvip.btk.teleos.ru:8081/chid518/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", КиноХит
 http://80.245.95.243:8888/play/a00j/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Киносемья
-http://80.245.95.243:8888/play/a013/index.m3u8
+http://tvip.btk.teleos.ru:8081/chid517/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Киномикс
-http://80.245.95.243:8888/play/a012/index.m3u8
+http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Киносерия
-http://80.245.95.243:8888/play/a002/index.m3u8
+http://31.210.208.171:8080/kinoseriya/index.m3u8?token=+W2MSER
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Наше новое кино
-http://80.245.95.243:8888/play/a01a/index.m3u8
+http://31.210.208.171:8080/nashe_novoe_kino/index.m3u8?token=+W2MSER
 
 #EXTINF:-1 group-title="Кино и сериалы", Родное Кино
 http://80.245.95.243:8888/play/age988/index.m3u8
@@ -349,13 +352,13 @@ http://77.235.1.19:8000/play/a084/index.m3u8
 http://80.245.95.243:8888/play/a013/index.m3u8
 
 #EXTINF:-0 group-title="Детские", Рыжий
-https://livetv.mylifeisgood.net.ru/channels/ryjii.m3u8?|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://31.130.19.207:4022/udp/239.1.9.40:1234
 
 #EXTINF:-0 group-title="Детские", СуперГерои
 http://178.124.179.122:8088/Malish/index.m3u8
 
 #EXTINF:-0 group-title="Детские", Капитан Фантастика
-http://arbiter.bolshoe.tv/?path=abr1/GingerHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI1IDY6NTc6NDEgUE0maGFzaF92YWx1ZT1OREtjS2JFWERvcElFTGdPUWFjd3dnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+http://5.166.73.40:81/udp/225.0.56.41:1234
 
 #EXTINF:-0 tvg-logo="https://pic.uma.media/cwebp/pic/cardimage/c0/99/c0992a350a1e1c1f93d7761819a31009.jpg?size=900&quality=95" tvg-id="zal-11-tricolor" group-title="Детские", Смешарики
 https://stream-msk-16.ott.tricolor.tv/dtv/id976_MSKSG-PVR-1--Kinozal_11/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0Mzk5NDA1OSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzMzg5MjU5LCJzZXNzaW9uX2lkIjoiOTY1M2JkNzc3Njk4YzdmODRjNDc5OTU1NGRkNDc1NzYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KGHLVTxp2-xOck8DUZg4A8YS053lPLNvKDX-g8l770U
