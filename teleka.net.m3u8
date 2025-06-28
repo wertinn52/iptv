@@ -346,7 +346,7 @@ EXTINF:-0 group-title="Детские", Gulli Girl
 http://77.235.1.19:8000/play/a084/index.m3u8
 
 #EXTINF:-0 group-title="Детские", Киносемья
-http://80.245.95.243:8888/play/a013/index.m3u8
+http://tvip.btk.teleos.ru:8081/chid517/tracks-v1a1/mono.m3u8
 
 #EXTINF:-0 group-title="Детские", Рыжий
 http://31.130.19.207:4022/udp/239.1.9.40:1234
