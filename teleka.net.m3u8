@@ -13,7 +13,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 
 #EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ЦТВ", Россия 1 HD +2
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD_2.m3u8
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
 
 #EXTINF:-1 group-title="ЦТВ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Матч ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
