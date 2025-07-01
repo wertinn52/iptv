@@ -331,10 +331,10 @@ http://178.217.72.66:8080/Black/index.m3u8
 http://api.peers.tv/timeshift/forkids/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTEzNTMxMTYsImlhdCI6MTc1MTI2NjcxNiwiY2lkIjo2LCJ1aWQiOjkyNzA2OTg3NSwicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.G474esNrTYgDN-00WX32HSMm6hpVZWhjlLd7v2KuL0Y&offset=10
 
 #EXTINF:-0 group-title="Детские", Cartoon Network
-http://80.245.95.243:8888/play/qwe9877/index.m3u8
+http://messi.tvfor.pro/xB53C8Z9bp/d7b9ne6gmw1egt8ugjxu2adq.m3u8
 
 #EXTINF:-1 group-title="Детские", Nickelodeon HD
-https://livetv.mylifeisgood.net.ru/channels/nickelodeon-hd.m3u8?|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://195.245.99.242/Nickelodeon/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nick-jr" group-title="Детские", Nick Jr
 http://158.160.149.81:8080/520/tracks-v1a2/mono.m3u8
@@ -358,7 +358,7 @@ http://77.235.1.19:8000/play/a084/index.m3u8
 http://tvip.btk.teleos.ru:8081/chid517/tracks-v1a1/mono.m3u8
 
 #EXTINF:-0 group-title="Детские", Рыжий
-http://31.130.19.207:4022/udp/239.1.9.40:1234
+http://messi.tvfor.pro/ARicanTIvE/d7b9ne6gmw1egt8ugjxu2adq.m3u8
 
 #EXTINF:-0 group-title="Детские", СуперГерои
 http://178.124.179.122:8088/Malish/index.m3u8
