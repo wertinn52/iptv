@@ -243,7 +243,7 @@ https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m
 #EXTINF:-1 tvg-logo="http://i124.fastpic.org/big/2025/0304/08/327c77bfeb388444f21c2d35588e5808.png" tvg-id="zal-02-tricolor" group-title="Кинозалы 2", СЛЕД
 https://stream-msk-16.ott.tricolor.tv/dtv/id929_MSKSG-PVR-1--Kinozal_2/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1MzY2OTIzMiwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzUzMDY0NDMyLCJzZXNzaW9uX2lkIjoiOWVhMThlNjgzNTUxYjNiNWVlN2NmODUyMDgxOTE1OTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.UrItlXueVDYEF_nJqKOWyvUWlExsKVhJaxFgSZbBGPg
 
-#EXTINF:-1 group-title="Tricolor (VPN 🇷🇺)",Ментовские войны
+#EXTINF:-1 group-title="Кинозалы 2", Ментовские войны
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_3
 
 #EXTINF:-1 tvg-logo="http://i124.fastpic.org/big/2025/0304/2c/930f3fcde26e11a3322ed8f37b89952c.png" tvg-id="zal-03-tricolor" group-title="Кинозалы 2", МЕНТОВСКИЕ ВОЙНЫ
