@@ -7,49 +7,49 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/edem.xml.gz"
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ЦТВ", Первый канал +2
-https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8?|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
 
 #EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ЦТВ", Россия 1 +2
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8?|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 
 #EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ЦТВ", Россия 1 HD +2
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
 
 #EXTINF:-1 group-title="ЦТВ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Матч ТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 
 #EXTINF:-1 group-title="ЦТВ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", НТВ +2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8?|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
 
 #EXTINF:-1 group-title="ЦТВ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятый канал +2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8?|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
 
 #EXTINF:-0 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ЦТВ", Карусель +2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8?|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 
 #EXTINF:-0 group-title="ЦТВ", Солнце +2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8?|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
 
 #EXTINF:-1 group-title="ЦТВ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", РЕН ТВ +2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8?|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
 
 #EXTINF:-1 group-title="ЦТВ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС +2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8?|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
 
 #EXTINF:-1 group-title="ЦТВ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Домашний +2
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8?|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
 
 #EXTINF:-1 group-title="ЦТВ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ3 +2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8?|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
 
 #EXTINF:-1 group-title="ЦТВ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="piatnica-pl2", Пятница! +2
-https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8?|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
 
 #EXTINF:-1 group-title="ЦТВ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ +2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8?|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 
 #EXTINF:-1 catchup="append" tvg-logo="http://only4.tv/ch/1313.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ЦТВ", Муз ТВ +2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8?|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 
 #EXTINF:-1 tvg-id="russky-roman" group-title="Кино и сериалы", Русский роман
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ruskiy_roman_HD
@@ -244,7 +244,7 @@ https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m
 https://stream-msk-16.ott.tricolor.tv/dtv/id929_MSKSG-PVR-1--Kinozal_2/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1MzY2OTIzMiwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzUzMDY0NDMyLCJzZXNzaW9uX2lkIjoiOWVhMThlNjgzNTUxYjNiNWVlN2NmODUyMDgxOTE1OTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.UrItlXueVDYEF_nJqKOWyvUWlExsKVhJaxFgSZbBGPg
 
 #EXTINF:-1 group-title="Кинозалы 2", Ментовские войны
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_3
+http://cdn.admuspeh.my/8802/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 tvg-logo="http://i124.fastpic.org/big/2025/0304/2c/930f3fcde26e11a3322ed8f37b89952c.png" tvg-id="zal-03-tricolor" group-title="Кинозалы 2", МЕНТОВСКИЕ ВОЙНЫ
 https://stream-msk-15.ott.tricolor.tv/dtv/id977_MSKSG-PVR-1--Kinozal_3/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1MzY2OTIzMiwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzUzMDY0NDMyLCJzZXNzaW9uX2lkIjoiOWVhMThlNjgzNTUxYjNiNWVlN2NmODUyMDgxOTE1OTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.UrItlXueVDYEF_nJqKOWyvUWlExsKVhJaxFgSZbBGPg
@@ -331,7 +331,7 @@ http://178.217.72.66:8080/O/index.m3u8
 http://178.217.72.66:8080/Black/index.m3u8
 
 #EXTINF:-0 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские", Уникум
-http://api.peers.tv/timeshift/forkids/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTMyNTM5NzgsImlhdCI6MTc1MzE2NzU3OCwiY2lkIjo2LCJ1aWQiOjkzMTY5NjQzOSwicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.gO1cA25WABMpXp9rjeiB7m5Bl8DIw-fZ24jz644sqjc&offset=10
+http://cdn.admuspeh.my/8067/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-0 group-title="Детские", Мама
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mama
@@ -352,7 +352,7 @@ http://77.235.1.19:8000/play/a084/index.m3u8
 http://tvip.btk.teleos.ru:8081/chid517/tracks-v1a1/mono.m3u8
 
 #EXTINF:-0 tvg-logo="https://pic.uma.media/cwebp/pic/cardimage/c0/99/c0992a350a1e1c1f93d7761819a31009.jpg?size=900&quality=95" tvg-id="zal-11-tricolor" group-title="Детские", Смешарики
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_11
+https://stream-msk-16.ott.tricolor.tv/dtv/id976_MSKSG-PVR-1--Kinozal_11/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1MzY2OTIzMiwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzUzMDY0NDMyLCJzZXNzaW9uX2lkIjoiOWVhMThlNjgzNTUxYjNiNWVlN2NmODUyMDgxOTE1OTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.UrItlXueVDYEF_nJqKOWyvUWlExsKVhJaxFgSZbBGPg
 
 #EXTINF:-0 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", БСТ
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
