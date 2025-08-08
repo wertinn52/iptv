@@ -1,0 +1,48 @@
+{
+  "proxies": [
+    {
+      "type": "ss",
+      "method": "chacha20-ietf-poly1305",
+      "password": "zI7kiNZ0UfV9cXB73a4nRD",
+      "address": "164.92.156.41",
+      "port": 24206,
+      "name": "@ShadowProxy66 🇳🇱"
+    },
+    {
+      "type": "ss",
+      "method": "chacha20-ietf-poly1305",
+      "password": "9RviNa4tsjcmcCB408vLSg",
+      "address": "46.101.245.131",
+      "port": 44354,
+      "name": "@ShadowProxy66 🇩🇪"
+    },
+    {
+      "type": "vless",
+      "uuid": "1c7fcc38-e6be-43c5-875f-b8de2516b9f2",
+      "address": "5.182.38.91",
+      "port": 17267,
+      "security": "reality",
+      "encryption": "none",
+      "pbk": "SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk",
+      "headerType": "none",
+      "fp": "chrome",
+      "network": "tcp",
+      "sni": "yahoo.com",
+      "sid": "4ae260",
+      "name": "@ShadowProxy66 🇭🇺"
+    },
+    {
+      "type": "vless",
+      "uuid": "2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe",
+      "address": "51.195.119.204",
+      "port": 80,
+      "path": "/vless/",
+      "security": "",
+      "encryption": "none",
+      "host": "---@ShadowProxy66",
+      "network": "ws",
+      "name": "@ShadowProxy66 🇩🇪"
+    }
+    // ... и так далее для остальных ссылок
+  ]
+}
